@@ -1,0 +1,6 @@
+[submodule "jsonview-chrome"]
+	path = jsonview-chrome
+	url = git://github.com/jamiew/jsonview-chrome.git
+[submodule "kanyestudio-pro"]
+	path = kanyestudio-pro
+	url = git://github.com/jamiew/KanyeStudioPro
