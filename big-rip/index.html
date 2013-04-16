@@ -1,0 +1,78 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"> 
+<html>
+<head>
+  <title>B.I.G. rIP 2.0</title>
+  <script type="text/javascript" charset="utf-8" src="jquery.js"></script>
+  <script type="text/javascript" charset="utf-8" src="jquery.countdown.js"></script>
+  <script type="text/javascript" charset="utf-8" src="date.js" ></script>
+	
+	<style type="text/css" media="screen">
+		body {
+			background: #000 url(http://ni9e.com/BIG_rIP/images/biggie_500px.png) no-repeat bottom left;
+			color: #666;
+			font-size: 40pt;
+			font-family: sans-serif;
+			text-align: center;
+			padding: 0px 20px 0px 20px;
+		}
+		a { color: #555; }
+		a:hover { color: #f0f; }
+
+		.countdown { display: none; }
+		span.label { /* years, months, weeks, ... */
+		  position: relative;
+		  bottom: -25px;
+		  left: -45px;
+		  font-size: 12pt;
+		}
+		#loading { 
+			position: absolute; 
+			top: 120px; 
+			left: 350px;
+		}
+		#main {
+			padding-top: 100px;
+			height: 300px;
+		}
+		#footer {
+			padding-left: 550px;
+			padding-top: 50px;
+			text-align: left;
+			position: relative;
+			color: #444;
+			font-size: 9pt;
+		}
+	</style>
+</head>
+<body>
+	
+	<div id="loading">
+		loading...
+	</div>
+
+	<div id="main">
+		<script type="text/javascript" charset="utf-8">
+			var d1 = Date.parse('today');
+			var d2 = Date.parse("25 December, 2066 07:15:35"); // day of reckoning
+			var seconds = (d2 - d1) / 1000;
+			document.write('<div class="countdown" secs="'+seconds+'"></div>');
+			$(document).ready(function(){
+				// countdown has a slight delay; init document after 2 seconds
+				setTimeout(function(){
+					$('#loading').fadeOut('fast');
+					$('.countdown').fadeIn('slow');
+				}, 1000);
+			});		
+		</script>	
+	</div>
+
+	<div id="footer">
+		time until the work of <a href="http://en.wikipedia.org/wiki/Notorious_big">Christopher Wallace</a> enters the public domain<br />
+		<br />
+		idea and Processing implementation by <a href="http://ni9e.com/BIG_rIP/">fi5e</a><br />
+		this Javascript implementation by <a href="http://tramchase.com">jamiew</a>, 2008 <br />
+	</div>
+
+</body>
+</html>

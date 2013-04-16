@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us" lang="en-us">
+  <head>
+    <title>Approval Matrix</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<!-- TODO moar meta -->
+		
+    <link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8" />
+
+		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/jquery.ui.matrices.packed.js" type="text/javascript" charset="utf-8"></script>
+		<script src="js/application.js" type="text/javascript" charset="utf-8"></script>
+
+  </head>
+  <body>
+		<div id="container">
+			<div id="header">
+				
+			</div>
+
+			<!-- indicators -->
+			<div id="loading" style="display: none;"><img src="images/loading.gif" alt="" /></div>			
+			<div id="flash" style="display: none;">[gtfo]</div>
+			
+			<!-- content -->
+			<div id="content">
+			
+
+<!--<div class="sidebar">
+</div>-->
+
+<!-- <h2 class="title" style="margin-right: 20px;"><em><%= @matrix.title %></em></h2>
+<p class="description"><%= @matrix.description %></p>
+
+<div class="add-item">
+	<% @item = Item.new %>
+	<% form_for :item, :action => url(:item) do %>
+
+		<%= file_control :file, :label => 'File ', :size => 5 %>
+		 <em>or</em> 
+	  <%= text_control :url, :label => 'URL ' %>
+
+		<p><%= text_control :title, :label => 'Title ', :size => 30 %>
+			
+	  <%= submit_button 'Add &rarr;' %>
+	<% end %>	
+</div> -->
+
+
+<!-- <%
+	labels = @matrix.labels.split(',').each { |n| n.strip! }
+%> -->
+<ul id="labels">
+	<!-- <li id="top"><%= labels[0] %></li>
+	<li id="bottom"><%= labels[1] %></li>
+	<li id="right"><%= labels[2] %></li>
+	<li id="left"><%= labels[3] %></li> -->
+	<li id="top">Cool</li>
+	<li id="bottom">Lame</li>
+	<li id="right">Important</li>
+	<li id="left">Unimportant</li>
+	
+</ul>
+
+<ul id="items">
+	<li id="item-1" style="top: 392px; left: 478px;">
+		<img src="images/item-mudkip.gif" alt="" />
+		<div class="title">Mudkips</div>
+		<div class="description">i herd you liek them</div>
+	</li>
+	<li id="item-2" style="top: 250px; left: 366px;">
+		<img src="images/item-1.jpg" alt="" />
+		<div class="title">Brian Wilson</div>
+	</li>
+	<li id="item-3" style="top: 479px; left: 224px;">
+		<img src="images/item-3.jpg" alt="" />
+		<div class="title">No cows campaign</div>
+		<div class="description">stopping cow poops everywhere</div>
+	</li>
+	<li id="item-4" style="top: 457px; left: 714px;">
+		<img src="images/item-4.jpg" alt="" />
+		<div class="title">cliff jumping</div>
+	</li>		
+</ul>
+		
+
+<table class="matrix" border="0" cellspacing="0" cellpadding="0">
+	<!-- <% num = 10 -%>
+	<% num.times { |i| -%>
+	<tr class="row-<%= i %>">
+		<% num.times { |j| -%><td class="column-<%= j %>">&nbsp;&nbsp;</td><% } %>
+	</tr>
+	<% } -%> -->
+	
+	<tr class="row-0"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-1"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-2"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-3"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-4"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-5"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-6"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-7"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-8"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+	<tr class="row-9"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
+											
+</table>
+
+
+</div> <!-- #content -->
+
+			<div id="footer">
+				
+			</div>
+			
+  </body>
+</html>

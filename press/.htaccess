@@ -1,0 +1,57 @@
+## also rewrite domain name
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^(www\.)?tramchase.com$ [NC]
+RewriteRule ^(.*)$ http://jamiedubs.com/images/$1 [R=301,L]
+
+
+# hotlinking a-holes go home
+RewriteRule ^57.gif$ http://i171.photobucket.com/albums/u289/karloth666/rickroll1.gif [R,L]
+
+
+
+
+
+#========================================================================
+# .htaccess file for Indices
+#
+# Place this file at the top of the directory tree whose directory
+# indices you want to affect.  Be sure that the AddIcon directives
+# point to the correct URLs on your server.
+#
+# Indices: http://antisleep.com/software/indices
+#========================================================================
+
+Options +Indexes +FollowSymlinks
+
+IndexOptions FancyIndexing
+IndexOptions FoldersFirst IgnoreCase XHTML NameWidth=*
+IndexOptions SuppressHTMLPreamble SuppressRules HTMLTable
+IndexOptions IconHeight=16 IconWidth=16
+IndexOptions SuppressDescription
+
+IndexIgnore readme.html
+
+HeaderName /indices/header.php
+ReadmeName /indices/footer.html
+
+DefaultIcon /indices/icons/text.png
+
+AddIcon /indices/icons/blank.gif        ^^BLANKICON^^
+AddIcon /indices/icons/dir.png          ^^DIRECTORY^^
+
+AddIcon /indices/icons/back.png         ..
+AddIcon /indices/icons/comp.png         .comp
+AddIcon /indices/icons/compressed.png   .zip .tar .tgz
+AddIcon /indices/icons/doc.png          .doc
+AddIcon /indices/icons/image.png        .jpg .png .gif .tif .tiff
+AddIcon /indices/icons/java.png         .java
+AddIcon /indices/icons/js.png           .js
+AddIcon /indices/icons/movie-ms.gif     .wmv .avi
+AddIcon /indices/icons/mov.png          .mov .qt
+AddIcon /indices/icons/pdf.png          .pdf
+AddIcon /indices/icons/php.png          .php
+AddIcon /indices/icons/ppt.png          .ppt
+AddIcon /indices/icons/ps.png           .ps
+AddIcon /indices/icons/sound.png        .mp3 .wav .m4a
+AddIcon /indices/icons/text.png         .text .html .htm
+AddIcon /indices/icons/xls.png          .xls

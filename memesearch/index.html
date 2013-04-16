@@ -1,0 +1,32 @@
+<html>
+<head>
+  <title>Meme Search Engine - Internet memes, viral videos, image macros, snowclones & more</title>
+</head>
+<style type="text/css">
+body { font-family: sans-serif; }
+h1 { text-align: center; text-transform: uppercase; font-family: sans-serif; margin: 50px 0 0 0; }
+#container { width: 600px; margin: 0 auto; margin-top: 200px; }
+</style>
+<body>
+
+<div id="container">
+
+  <h1>Internet Meme Search Engine</h1>
+
+<div id="cse" style="width: 100%; margin: 0 auto;">Loading...</div>
+<script src="http://www.google.com/jsapi" type="text/javascript"></script>
+<script type="text/javascript">
+  google.load('search', '1', {language : 'en', style : google.loader.themes.MINIMALIST});
+  google.setOnLoadCallback(function() {
+    var customSearchControl = new google.search.CustomSearchControl('007758010914521183466:7yao9usvgd8');
+    customSearchControl.setResultSetSize(google.search.Search.SMALL_RESULTSET);
+    customSearchControl.draw('cse');
+    document.getElementsByTagName('input')[0].focus();
+  }, true);
+</script>
+
+</div>
+
+
+</body>
+</html>
