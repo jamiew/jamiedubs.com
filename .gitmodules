@@ -3,4 +3,16 @@
 	url = git://github.com/jamiew/jsonview-chrome.git
 [submodule "kanyestudio-pro"]
 	path = kanyestudio-pro
-	url = git://github.com/jamiew/KanyeStudioPro
+	url = git://github.com/jamiew/KanyeStudioPro.git
+[submodule "webmarker"]
+	path = webmarker
+	url = git://github.com/tbx/webmarker.git
+[submodule "musicblackhole"]
+  path = musicblackhole
+  url = git://github.com/jamiew/musicblackhole.git
+[submodule "canvasplayer"]
+  path = canvasplayer
+  url = git://github.com/jamiew/canvasplayer.git
+[submodule "localtv"]
+  path = localtv
+  url = git://github.com/jamiew/localtv.git
