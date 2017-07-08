@@ -4,27 +4,38 @@
     <title>Approval Matrix</title>
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 		<!-- TODO moar meta -->
-		
+
     <link rel="stylesheet" href="style.css" type="text/css" media="screen" charset="utf-8" />
 
 		<script src="js/jquery.min.js" type="text/javascript" charset="utf-8"></script>
 		<script src="js/jquery.ui.matrices.packed.js" type="text/javascript" charset="utf-8"></script>
 		<script src="js/application.js" type="text/javascript" charset="utf-8"></script>
 
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-96220-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
   </head>
   <body>
 		<div id="container">
 			<div id="header">
-				
+
 			</div>
 
 			<!-- indicators -->
-			<div id="loading" style="display: none;"><img src="images/loading.gif" alt="" /></div>			
+			<div id="loading" style="display: none;"><img src="images/loading.gif" alt="" /></div>
 			<div id="flash" style="display: none;">[gtfo]</div>
-			
+
 			<!-- content -->
 			<div id="content">
-			
+
 
 <!--<div class="sidebar">
 </div>-->
@@ -37,13 +48,13 @@
 	<% form_for :item, :action => url(:item) do %>
 
 		<%= file_control :file, :label => 'File ', :size => 5 %>
-		 <em>or</em> 
+		 <em>or</em>
 	  <%= text_control :url, :label => 'URL ' %>
 
 		<p><%= text_control :title, :label => 'Title ', :size => 30 %>
-			
+
 	  <%= submit_button 'Add &rarr;' %>
-	<% end %>	
+	<% end %>
 </div> -->
 
 
@@ -59,7 +70,7 @@
 	<li id="bottom">Lame</li>
 	<li id="right">Important</li>
 	<li id="left">Unimportant</li>
-	
+
 </ul>
 
 <ul id="items">
@@ -80,9 +91,9 @@
 	<li id="item-4" style="top: 457px; left: 714px;">
 		<img src="images/item-4.jpg" alt="" />
 		<div class="title">cliff jumping</div>
-	</li>		
+	</li>
 </ul>
-		
+
 
 <table class="matrix" border="0" cellspacing="0" cellpadding="0">
 	<!-- <% num = 10 -%>
@@ -91,7 +102,7 @@
 		<% num.times { |j| -%><td class="column-<%= j %>">&nbsp;&nbsp;</td><% } %>
 	</tr>
 	<% } -%> -->
-	
+
 	<tr class="row-0"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
 	<tr class="row-1"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
 	<tr class="row-2"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
@@ -102,15 +113,15 @@
 	<tr class="row-7"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
 	<tr class="row-8"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
 	<tr class="row-9"><td class="column-0">&nbsp;&nbsp;</td><td class="column-1">&nbsp;&nbsp;</td><td class="column-2">&nbsp;&nbsp;</td><td class="column-3">&nbsp;&nbsp;</td><td class="column-4">&nbsp;&nbsp;</td><td class="column-5">&nbsp;&nbsp;</td><td class="column-6">&nbsp;&nbsp;</td><td class="column-7">&nbsp;&nbsp;</td><td class="column-8">&nbsp;&nbsp;</td><td class="column-9">&nbsp;&nbsp;</td></tr>
-											
+
 </table>
 
 
 </div> <!-- #content -->
 
 			<div id="footer">
-				
+
 			</div>
-			
+
   </body>
 </html>
