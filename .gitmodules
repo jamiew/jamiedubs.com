@@ -1,15 +1,12 @@
 [submodule "jsonview-chrome"]
   path = jsonview-chrome
   url = https://github.com/jamiew/jsonview-chrome.git
-[submodule "kanyestudio-pro"]
-  path = kanyestudio-pro
-  url = https://github.com/jamiew/KanyeStudioPro.git
 [submodule "webmarker"]
-  path = webmarker
-  url = https://github.com/tbx/webmarker.git
+	path = webmarker
+	url = https://github.com/tbx/webmarker.git
 [submodule "musicblackhole"]
-  path = musicblackhole
-  url = https://github.com/jamiew/musicblackhole.git
+	path = musicblackhole
+	url = https://github.com/jamiew/musicblackhole.git
 [submodule "canvasplayer"]
   path = canvasplayer
   url = https://github.com/jamiew/canvasplayer.git
@@ -17,5 +14,8 @@
   path = localtv
   url = https://github.com/jamiew/localtv.git
 [submodule "hypetv"]
-  path = hypetv
-  url = https://github.com/jamiew/hypetv.git
+	path = hypetv
+	url = https://github.com/jamiew/hypetv.git
+[submodule "kanyestudio-pro"]
+	path = kanyestudio-pro
+	url = https://github.com/jamiew/KanyeStudioPro.git
