@@ -16,3 +16,6 @@
 [submodule "localtv"]
   path = localtv
   url = https://github.com/jamiew/localtv.git
+[submodule "hypetv"]
+  path = hypetv
+  url = https://github.com/jamiew/hypetv.git
