@@ -19,3 +19,6 @@
 [submodule "kanyestudio-pro"]
 	path = kanyestudio-pro
 	url = https://github.com/jamiew/KanyeStudioPro.git
+[submodule "quotable-kanye"]
+	path = quotable-kanye
+	url = https://github.com/jamiew/KANYE-QUOTABLES
