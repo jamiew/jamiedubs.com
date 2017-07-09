@@ -22,3 +22,6 @@
 [submodule "quotable-kanye"]
 	path = quotable-kanye
 	url = https://github.com/jamiew/KANYE-QUOTABLES
+[submodule "kanye-rant-detector"]
+	path = kanye-rant-detector
+	url = https://github.com/jamiew/KANYE-RANT-DETECTOR
