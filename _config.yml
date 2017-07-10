@@ -1,10 +1,28 @@
----
-title: jamiedubs.com
+title: jamiedubs.com - personal home page - Internet Scientist
+email: jamie@jamiedubs.com
 timezone: America/New_York
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
+description: >
+  ¯¯\_(ツ)_/¯¯
+  I move away from the mic to move in
+baseurl: "" # e.g. /blog
+url: "http://www.jamiedubs.com" # e.g. http://example.com
+twitter_username: jamiew
+github_username:  jamiew
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
