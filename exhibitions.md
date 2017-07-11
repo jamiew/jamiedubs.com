@@ -1,7 +1,7 @@
 ---
+title: List of exhibitions
+date: 2017-06-10 00:00:00 -04:00
 layout: post
-title:  "List of exhibitions"
-date:   2017-06-10
 categories: pages
 ---
 
