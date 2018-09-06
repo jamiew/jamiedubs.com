@@ -15,6 +15,6 @@ url: http://www.jamiedubs.com
 twitter_username: jamiew
 github_username: jamiew
 markdown: kramdown
-theme: minima
+theme: none
 plugins:
 - jekyll-feed
