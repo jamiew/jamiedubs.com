@@ -1,9 +1,6 @@
 [submodule "jsonview-chrome"]
   path = jsonview-chrome
   url = https://github.com/jamiew/jsonview-chrome.git
-[submodule "webmarker"]
-	path = webmarker
-	url = https://github.com/tbx/webmarker.git
 [submodule "musicblackhole"]
 	path = musicblackhole
 	url = https://github.com/jamiew/musicblackhole.git
