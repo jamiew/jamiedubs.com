@@ -1,5 +1,5 @@
 ---
-title: jamiedubs.com - personal home page - Internet Scientist
+title: Jamie Wilkinson
 timezone: America/New_York
 collections:
   posts:
@@ -9,11 +9,12 @@ collections:
     title: Uploads
     output: true
 email: jamie@jamiedubs.com
-description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to move in\n"
+description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
 baseurl: ''
-url: http://www.jamiedubs.com
+url: https://www.jamiedubs.com
 twitter_username: jamiew
 github_username: jamiew
 markdown: kramdown
 plugins:
 - jekyll-feed
+- jekyll-seo-tag
