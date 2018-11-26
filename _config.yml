@@ -1,5 +1,5 @@
 ---
-title: Jamie Wilkinson
+title: 58d95145c370d83db0430537
 timezone: America/New_York
 collections:
   posts:
@@ -8,13 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: jamie@jamiedubs.com
-description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
-baseurl: ''
+58d95145c370d83db0430537: "¯¯\\_(ツ)_/¯¯ I move away from the mic to move in\n"
+baseurl: 
 url: https://www.jamiedubs.com
 twitter_username: jamiew
 github_username: jamiew
 markdown: kramdown
 plugins:
 - jekyll-feed
-- jekyll-seo-tag
