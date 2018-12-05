@@ -62,7 +62,7 @@ TODO investors, cool tech?, notable clients
 <p>In 2010 I won a Primetime Emmy for my work on <a href="http://starwarsuncut.com">Star Wars Uncut</a>
  with <a href="http://caseypugh.com">Casey Pugh</a>, my co-founder at VHX.
 
-<p><img src="/images/star-wars-uncut-poster-by-malcom-sutherland.jpg" />
+<p><img src="images/star-wars-uncut-poster-by-malcom-sutherland.jpg" />
 
 
 <p>From 2007 to 2016 I was a member of the <a href="http://fffff.at">FAT Lab (Free Art & Technology)</a>,
@@ -78,9 +78,9 @@ TODO investors, cool tech?, notable clients
  and <a href="http://fffff.at/author/jamie">many more</a>.
 
 <p>Here's the crew with the fake Google Street View car we built:</p>
-<p><img src="/images/fat-lab-group-shot.png" />
+<p><img src="images/fat-lab-group-shot.png" />
 
-<p><img src="/images/fat-diagram-500px.jpg" width="100%" />
+<p><img src="images/fat-diagram-500px.jpg" width="100%" />
 
 <!--
 <p>I taught the Internet Famous Class at Parsons New School in 2007-2008,
