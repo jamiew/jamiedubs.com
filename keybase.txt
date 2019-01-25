@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jamiew
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.jamiedubs.com
+  * I am jamiew (https://keybase.io/jamiew) on keybase.
+  * I have a public key ASAx0sdmZOEPlGQ05xOiAYfJCQXDCErTzrNwDVhqlePiYAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010130c37144247cf8f41af52ca1175f2fd5d429c82cd0db98dbe5ccee13e26c5af20a",
+      "host": "keybase.io",
+      "kid": "012031d2c76664e10f946434e713a20187c90905c3084ad3ceb3700d586a95e3e2600a",
+      "uid": "3e07ca29f91fc528610036d6285cd800",
+      "username": "jamiew"
+    },
+    "merkle_root": {
+      "ctime": 1548430115,
+      "hash": "3e09e78ba0ebec18fe11d62605d7e797d0b12bf031d666bbf397d719f32de5d1aae6bf45aa0fd1c65c317c8049e9353e903a3740a4c2c0e41646ede6d7a58e30",
+      "hash_meta": "73d42c5adaaa283e8487e1949911ebe8802bc050ae233607faa2d5333ce1ef20",
+      "seqno": 4612926
+    },
+    "service": {
+      "entropy": "k3iz8NterNjVHmit5Un9UQd6",
+      "hostname": "www.jamiedubs.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.2"
+  },
+  "ctime": 1548430118,
+  "expire_in": 504576000,
+  "prev": "e80b441abbad9cffd5270696049fa3ddaf76aabb21b592d1f17def3507e573e7",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMdLHZmThD5RkNOcTogGHyQkFwwhK086zcA1YapXj4mAKp3BheWxvYWTESpcCEcQg6AtEGrutnP/VJwaWBJ+j3a92qrshtZLR8X3vNQflc+fEIILk9pwXvDA1alx0kruRcjKHImgMU0OUfbn0hjjtfUUrAgHCo3NpZ8RAlOjB0n4hIL4vAs6EdXebBqCXs3n4Dnx/CK5Jc0wP7aI2A1ISl6dcy2a7P0nmZKVgyK2RI9bDu3WDBIua9Sx3AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILLDNC2ZznkD/UXKGEo8VGWchbqrIo1zGjhbfBjDsr/Ao3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamiew
+
+==================================================================
