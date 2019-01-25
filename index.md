@@ -5,7 +5,7 @@ layout: default
 
 <h1>Jamie "Dubs" Wilkinson</h1>
 
-<p>I am an American computer programmer and entrepreneur based in New York City.
+<p>I am an American computer programmer and entrepreneur.
 
 <p>Here is an awkward interview with me:
 
@@ -13,12 +13,16 @@ layout: default
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>
-  I'm currently available for consulting and investment opportunities,
-  and always interested in collaborating on creative projects.
+  I'm currently available for collaborating on creative projects,
+  as well as consulting or investment opportunities.
 
 <p>
   Contact me: <a href="http://twitter.com/jamiew">@jamiew</a> on Twitter
   or email "jamie@<i>[[thisdomain]]</i>.com"
+
+<p>
+  I am [@jamiew](https://github.com/jamiew) on GitHub
+  and here is [my PGP public key](/pgp-public-key.txt) [Keybase](http:
 
 {% comment %}
 <p>
@@ -32,10 +36,10 @@ layout: default
 {% endcomment %}
 
 <p>
-  I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
+  From 2010-2018 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
   We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
-  We launched in 2010 and were backed by great investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
+  The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
   In 2017 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
 {% comment %}
@@ -43,14 +47,15 @@ TODO investors, cool tech?, notable clients
 {% endcomment %}
 
 <p>
-  After VHX and Vimeo I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>.
+  After VHX and Vimeo I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
+  where I led engineering and product.
 
 <p>
-  Before that I was the co-founder of <a href="http://knowyourmeme.com">Know Your Meme</a>,
-  a community-edited database of Internet culture.
-  We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
-  KYM was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand a weird reference.
+  Before all that, in 2008, I was the co-founder of <a href="http://knowyourmeme.com">Know Your Meme</a>,
+  a community-edited database of Internet culture (like Wikipedia).
+  We also produced a monthly-ish web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
+  KYM was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand a weird reference.
 
 <!-- <p><img src="https://dl.dropboxusercontent.com/s/b4n1zdnxs0fhg5e/2017-07-10%20at%2011.09%20PM%20%281%29.png" /> -->
 
@@ -58,9 +63,10 @@ TODO investors, cool tech?, notable clients
 
 <!--<p><img src="http://i2.kym-cdn.com/photos/images/newsfeed/000/428/023/6d9.jpg" />-->
 
-
-<p>In 2010 I won a Primetime Emmy for my work on <a href="http://starwarsuncut.com">Star Wars Uncut</a>
- with <a href="http://caseypugh.com">Casey Pugh</a>, my co-founder at VHX.
+<p>In 2010 I won a Primetime Emmy for my work on <a href="http://starwarsuncut.com">Star Wars Uncut</a>,
+  where we chopped the original Star Wars movie into 15 second pieces and invited the Internet
+  to recreate them, one scene at a time. The project was created by
+  <a href="http://caseypugh.com">Casey Pugh</a>, my co-founder at VHX.
 
 <p><img src="images/star-wars-uncut-poster-by-malcom-sutherland.jpg" />
 
@@ -74,10 +80,10 @@ TODO investors, cool tech?, notable clients
  Internet Famous Class,
  <a href="http://occupyinter.net">occupyinter.net</a>,
  FuckFlickr,
- Kanye Rant Detector,
+ the Kanye Rant Detector,
  and <a href="http://fffff.at/author/jamie">many more</a>.
 
-<p>Here's the crew with the fake Google Street View car we built:</p>
+<p>Here's the crew with the fake Google Street View car we built in 2015:</p>
 <p><img src="images/fat-lab-group-shot.png" />
 
 <p><img src="images/fat-diagram-500px.jpg" width="100%" />
