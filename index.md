@@ -37,26 +37,26 @@ layout: default
 <p>
   From 2010-2018 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
-  We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
-  The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
   In 2017 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
+  We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
+  The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
 {% comment %}
 TODO investors, cool tech?, notable clients
 {% endcomment %}
 
 <p>
   After VHX and Vimeo I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
-  where I led engineering and product.
+  where I led product, data and engineering.
 
 <p>
-  Before all that, in 2008, I was the co-founder of <a href="http://knowyourmeme.com">Know Your Meme</a>,
+  Before all that, in 2008, I created <a href="http://knowyourmeme.com">Know Your Meme</a>,
   a community-edited database of Internet culture (like Wikipedia).
-  We also produced a monthly-ish web show where we would dress up in lab coats and explain the stories behind notable memes.
+  We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
-  KYM was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand a weird reference.
+  The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand an obscure reference.
 
-<!-- <p><img src="https://dl.dropboxusercontent.com/s/b4n1zdnxs0fhg5e/2017-07-10%20at%2011.09%20PM%20%281%29.png" /> -->
+<p><img src="https://dl.dropboxusercontent.com/s/b4n1zdnxs0fhg5e/2017-07-10%20at%2011.09%20PM%20%281%29.png" />
 
 <!--<p><img src="https://dl.dropboxusercontent.com/s/gcrcqs7ponvuor0/2017-07-10%20at%2011.09%20PM.png" />-->
 
