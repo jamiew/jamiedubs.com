@@ -106,12 +106,12 @@ where students grades depended on generating Internet traffic.
 
 <p>Here is a list of some projects:</p>
 <ul>
-  <li><a href="http://vhx.tv">VHX</a> (2010-2017) - a platform for selling videos online</li>
-  <li><a href="http://knowyourmeme.com">Know Your Meme</a> (2007-2010) -
+  <!--<li><a href="http://vhx.tv">VHX</a> (2010-2017) - a platform for selling videos online</li>-->
+  <!--<li><a href="http://knowyourmeme.com">Know Your Meme</a> (2007-2010) -
     documenting Internet phenomena: viral videos, image macros, web communities and more.
-    </li>
-  <li><a href="http://starwarsuncut.com">Star Wars Uncut</a> (2009-2010) - crowd-sourced recreation of the
-    original Star Wars movie, chopped up into 15 second chunks</li>
+    </li>-->
+  <!--<li><a href="http://starwarsuncut.com">Star Wars Uncut</a> (2009-2010) - crowd-sourced recreation of the
+    original Star Wars movie, chopped up into 15 second chunks</li>-->
   <!-- showmenonstop http://fffff.at/showmenonstop/ -->
   <!-- Music Video Genome -->
   <li><a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)</li>
@@ -149,7 +149,6 @@ where students grades depended on generating Internet traffic.
   <li><a href="/big-rip">BIG_RIP.js</a> (2007)</li>
   <li><a href="/breakout-usa">Breakout USA</a> (2007)</li>
   <li><a href="/matrixmaker">Product Management Approval Matrix</a></li>
-
   <!--
   ghettovision https://github.com/jamiew/ghettovision
   eBay Spells & Potions  https://github.com/jamiew/ebay-spells
@@ -159,22 +158,18 @@ where students grades depended on generating Internet traffic.
   $6 for free
   filemark maker
   -->
-
   <!-- contributed to -->
   <!--
   whytheyhate.us
   Pirates of the Amazon
   White Glove Tracking https://github.com/jamiew/white-glove-tracking
   -->
-
-
   <!-- urbantv -->
   <!--
   <li><a href="/hypetv">HypeTV</a> (2011)</li>
   <li><a href="/localtv">LocalTV</a> (2011)</li>
   <li><a href="/musicblackhole">Music Blackhole</a> (2007)</li>
   -->
-
   <!-- BeNews -->
   <!-- Tave Imagination -->
   <!-- icon maker app -->
