@@ -50,7 +50,7 @@ TODO investors, cool tech?, notable clients
   where I led product, data and engineering.
 
 <p>
-  Before all that, in 2008, I created <a href="http://knowyourmeme.com">Know Your Meme</a>,
+  In 2008, I helped create <a href="http://knowyourmeme.com">Know Your Meme</a>,
   a community-edited database of Internet culture (like Wikipedia).
   We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
@@ -104,76 +104,81 @@ where students grades depended on generating Internet traffic.
 
 <!--<div id="github-widget" data-user="jamiew" data-display="pop_repos,contribution,calendar"></div>-->
 
-<p>Here is a list of some projects:</p>
-<ul>
-  <!--<li><a href="http://vhx.tv">VHX</a> (2010-2017) - a platform for selling videos online</li>-->
-  <!--<li><a href="http://knowyourmeme.com">Know Your Meme</a> (2007-2010) -
-    documenting Internet phenomena: viral videos, image macros, web communities and more.
-    </li>-->
-  <!--<li><a href="http://starwarsuncut.com">Star Wars Uncut</a> (2009-2010) - crowd-sourced recreation of the
-    original Star Wars movie, chopped up into 15 second chunks</li>-->
-  <!-- showmenonstop http://fffff.at/showmenonstop/ -->
-  <!-- Music Video Genome -->
-  <li><a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)</li>
-  <li><a href="/googlealarm">Google Alarm</a> (2010)
-      - browser extension that plays alarms when you send data to Google
-      - <a href="http://fffff.at/google-alarm/">blog post</a></li>
-  <li><a href="http://occupyinter.net">Occupy Internet</a> (2010)
-      - join the global revolution from the comfort of your own home
-      - <a href="">blog post</a></li>
-  <li><a href="/meme-breaks">Meme Breaks</a> (2008)
-    - break record made of old Internet memes
-    - <a href="http://fffff.at/scratch-my-internet-memes/">blog post</a></li>
-  <li><a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)
-  <!-- Graffiti Markup Language (GML) http://graffitimarkuplanguage.com -->
-  <li><a href="http://000book.com">000000book</a> (2009)
-      - open database for Graffiti Markup Language (.gml) files
-  <li><a href="/canvasplayer">Canvasplayer</a> (2009)
-      - draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a></li>
-  <li><a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
-      - visualizes contributors to the Obama page over time
-      - <a href="http://fffff.at/visualizing-obama-wikipedia-page-edits/">blog post</a>
-  <li><a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)</li>
-  <!-- internetfamo.us -->
-  <li><a href="http://rickrolldb.com">Rickroll Database</a> (2007)
-      - AdBlock filter for rickrolls
-  <!--<li><a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
-          - <a href="https://github.com/jamiew/jsonview-chrome">source code</a></li>-->
-  <li><a href="http://fuckflickr.com">FuckFlickr</a> (2007)
-      - host your own photos
-      - <a href="https://github.com/jamiew/fuckflickr">source code</a></li>
-  <!-- Kanye Week -->
-  <li><a href="/KANYERANTS">Kanye Rant Detector</a> (2009) - <a href="http://fffff.at/kanye-rant-detector/">blog post</a></li>
-  <li><a href="/quotable-kanye">Quotable Kanye</a> (2009) - <a href="http://fffff.at/quotable-kanye/">blog post</a></li>
-  <li><a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)</li>
-  <li><a href="/big-rip">BIG_RIP.js</a> (2007)</li>
-  <li><a href="/breakout-usa">Breakout USA</a> (2007)</li>
-  <li><a href="/matrixmaker">Product Management Approval Matrix</a></li>
-  <!--
-  ghettovision https://github.com/jamiew/ghettovision
-  eBay Spells & Potions  https://github.com/jamiew/ebay-spells
-  FAT Lab 4chan takeover (date?) https://github.com/jamiew/fatchan
-  wikiswarm (Obama Wikipedia page edits)
-  storyboard w/ bennett
-  $6 for free
-  filemark maker
-  -->
-  <!-- contributed to -->
-  <!--
-  whytheyhate.us
-  Pirates of the Amazon
-  White Glove Tracking https://github.com/jamiew/white-glove-tracking
-  -->
-  <!-- urbantv -->
-  <!--
-  <li><a href="/hypetv">HypeTV</a> (2011)</li>
-  <li><a href="/localtv">LocalTV</a> (2011)</li>
-  <li><a href="/musicblackhole">Music Blackhole</a> (2007)</li>
-  -->
-  <!-- BeNews -->
-  <!-- Tave Imagination -->
-  <!-- icon maker app -->
-</ul>
+<p>Here is an incomplete list of projects:</p>
+
+* <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)</li>
+  - digitizing turntablism
+  - see also Graffiti Markup Language (.gml)
+* <a href="/googlealarm">Google Alarm</a> (2010)
+    - browser extension that loudly alerts you whenever you're sending data to Google
+    - <a href="http://fffff.at/google-alarm/">blog post</a>
+* <a href="http://occupyinter.net">Occupy Internet</a> (2010)
+    - animated GIF protestors for your website
+    - join the global revolution from the comfort of your own home
+    - <a href="">blog post</a>
+* <a href="/meme-breaks">Meme Breaks</a> (2008)
+  - scratch your favorite Internet memes
+  - <a href="http://fffff.at/scratch-my-internet-memes/">blog post</a>
+* <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)</a>
+  - file format for capturing and replaying graffiti tags
+* <a href="http://000book.com">000000book</a> (2009)
+    - open database for Graffiti Markup Language (.gml) files
+* <a href="/canvasplayer">Canvasplayer</a> (2009)
+    - draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a></li>
+* <a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
+    - visualizes contributors to the Obama page over time
+    - <a href="http://fffff.at/visualizing-obama-wikipedia-page-edits/">blog post</a>
+* <a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)</li>
+    - I taught a graduate course at Parsons Design & Technology program where student grades were based on how many views and likes they could generate
+* <a href="http://rickrolldb.com">Rickroll Database</a> (2007)
+    - AdBlock filter for rickrolls
+    - you're welcome
+* <a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
+    - browser extension for
+    - <a href="https://github.com/jamiew/jsonview-chrome">source code</a></li>
+* <a href="http://fuckflickr.com">FuckFlickr</a> (2007)
+    - host your own photos
+    - <a href="https://github.com/jamiew/fuckflickr">source code</a></li>
+<!-- Kanye Week -->
+* <a href="/KANYERANTS">Kanye Rant Detector</a> (2009)
+  - alerts you when Kanye is using ALLCAPS on his blog
+  - <a href="http://fffff.at/kanye-rant-detector/">blog post</a></li>
+* <a href="/quotable-kanye">Quotable Kanye</a> (2009)
+  - Yeezy wisdom (with API)
+  - <a href="http://fffff.at/quotable-kanye/">blog post</a></li>
+* <a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)</li>
+* <a href="/big-rip">BIG_RIP.js</a> (2007)</li>
+* <a href="/breakout-usa">Breakout USA</a> (2007)</li>
+* <a href="/matrixmaker">Product Management Approval Matrix</a></li>
+<!--
+* ghettovision https://github.com/jamiew/ghettovision
+* eBay Spells & Potions  https://github.com/jamiew/ebay-spells
+* FAT Lab 4chan takeover (date?) https://github.com/jamiew/fatchan
+* wikiswarm (Obama Wikipedia page edits)
+* Storyboard w/ bennett
+* $6 for free
+* filemark maker
+* <a href="/musicblackhole">Music Blackhole</a> (2007)</li>
+-->
+<!-- contributed to -->
+<!--
+* whytheyhate.us
+* Pirates of the Amazon
+* White Glove Tracking https://github.com/jamiew/white-glove-tracking
+-->
+<!-- VHX 1.0 projects -->
+<!--
+* watchlater.org!
+* UrbanTV
+* <a href="/hypetv">HypeTV</a> (2011)</li>
+* <a href="/localtv">LocalTV</a> (2011)</li>
+-->
+<!-- BeOS era -->
+<!--
+* BeNews
+* Tave Imagination
+* FolderIconMaker
+ -->
 
 <p>Here are some more lists I'm working on:
 
