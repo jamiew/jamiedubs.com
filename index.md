@@ -13,18 +13,17 @@ layout: default
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>
-  I'm currently available for collaborating on creative projects,
-  as well as consulting or investment opportunities.
+  I'm currently available for consulting and investment opportunities &mdash; get in touch.
 
 <p>
   Contact me: <a href="http://twitter.com/jamiew">@jamiew</a> on Twitter
   or email "jamie@<i>[[thisdomain]]</i>.com"
 
-<p>
-  I am [@jamiew](https://github.com/jamiew) on GitHub
-  and here is [my PGP public key](/pgp-public-key.txt) [Keybase](http:
-
 {% comment %}
+<p>
+  I am (@jamiew)[https://github.com/jamiew] on GitHub
+  and here is (my PGP public key)[/pgp-public-key.txt]
+
 <p>
   I am currently...
   I am available for consulting and investment opportunities.
