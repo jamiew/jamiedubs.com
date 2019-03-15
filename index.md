@@ -104,9 +104,9 @@ where students grades depended on generating Internet traffic.
 
 <!--<div id="github-widget" data-user="jamiew" data-display="pop_repos,contribution,calendar"></div>-->
 
-<p>Here is an incomplete list of projects:</p>
+<p>Here is an incomplete list of other projects:</p>
 
-* <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)</li>
+* <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)
   - digitizing turntablism
   - see also Graffiti Markup Language (.gml)
 * <a href="/googlealarm">Google Alarm</a> (2010)
@@ -124,32 +124,32 @@ where students grades depended on generating Internet traffic.
 * <a href="http://000book.com">000000book</a> (2009)
     - open database for Graffiti Markup Language (.gml) files
 * <a href="/canvasplayer">Canvasplayer</a> (2009)
-    - draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a></li>
+    - draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a>
 * <a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
     - visualizes contributors to the Obama page over time
     - <a href="http://fffff.at/visualizing-obama-wikipedia-page-edits/">blog post</a>
-* <a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)</li>
+* <a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)
     - I taught a graduate course at Parsons Design & Technology program where student grades were based on how many views and likes they could generate
 * <a href="http://rickrolldb.com">Rickroll Database</a> (2007)
     - AdBlock filter for rickrolls
     - you're welcome
 * <a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
     - browser extension for
-    - <a href="https://github.com/jamiew/jsonview-chrome">source code</a></li>
+    - <a href="https://github.com/jamiew/jsonview-chrome">source code</a>
 * <a href="http://fuckflickr.com">FuckFlickr</a> (2007)
     - host your own photos
-    - <a href="https://github.com/jamiew/fuckflickr">source code</a></li>
+    - <a href="https://github.com/jamiew/fuckflickr">source code</a>
 <!-- Kanye Week -->
 * <a href="/KANYERANTS">Kanye Rant Detector</a> (2009)
   - alerts you when Kanye is using ALLCAPS on his blog
-  - <a href="http://fffff.at/kanye-rant-detector/">blog post</a></li>
+  - <a href="http://fffff.at/kanye-rant-detector/">blog post</a>
 * <a href="/quotable-kanye">Quotable Kanye</a> (2009)
   - Yeezy wisdom (with API)
-  - <a href="http://fffff.at/quotable-kanye/">blog post</a></li>
-* <a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)</li>
-* <a href="/big-rip">BIG_RIP.js</a> (2007)</li>
-* <a href="/breakout-usa">Breakout USA</a> (2007)</li>
-* <a href="/matrixmaker">Product Management Approval Matrix</a></li>
+  - <a href="http://fffff.at/quotable-kanye/">blog post</a>
+* <a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)
+* <a href="/big-rip">BIG_RIP.js</a> (2007)
+* <a href="/breakout-usa">Breakout USA</a> (2007)
+* <a href="/matrixmaker">Product Management Approval Matrix</a>
 <!--
 * ghettovision https://github.com/jamiew/ghettovision
 * eBay Spells & Potions  https://github.com/jamiew/ebay-spells
