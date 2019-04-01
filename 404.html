@@ -11,13 +11,6 @@
     a { color: #000; text-decoration: underline; }
     a:hover { color: #339; }
   </style>
-</head>
-
-<body>
-
-  <h1>404 File Not Found :(</h1>
-
-  <p>Nothing to see here</p>
 
   <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -28,6 +21,24 @@
     ga('create', 'UA-96220-1', 'jamiedubs.com');
     ga('send', 'pageview');
   </script>
+</head>
+
+<body>
+
+  <h1>404 File Not Found :(</h1>
+
+  <p>Nothing to see here</p>
+
+  <p>Try searching:</p>
+
+  <form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
+    <input name="sitesearch" type="hidden" value="jamiedubs.com">
+    <input autocomplete="on" class="form-control search" name="q" placeholder="..." required="required"  type="text">
+    <button class="button" type="submit">Search</button>
+  </form>
+
+  <p>Or <a href="https://jamiedubs.com">go back to jamiedubs.com</a>
+
 
 </body>
 </html>
