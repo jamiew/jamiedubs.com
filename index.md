@@ -13,7 +13,7 @@ layout: default
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>
-  I'm currently available for consulting and investment opportunities &mdash; get in touch.
+  I'm currently available for consulting and investment opportunities.
 
 <p>
   Contact me: <a href="http://twitter.com/jamiew">@jamiew</a> on Twitter
