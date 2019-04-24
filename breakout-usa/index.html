@@ -3,10 +3,10 @@
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
 	<title>Breakout U.S.A.</title>
-	  <style type="text/css">
+	<style type="text/css">
 	body, html {
-		margin:0;
-    padding:0;
+		margin: 0;
+    padding: 0;
 	}
 	body { 
 		font-family: sans-serif;
@@ -15,49 +15,30 @@
     background:black;
     color:#fff;
 	}
-	#wrap { margin: 0 auto; width:800px; }
-	#canvascontainer { 
+	#container { 
 		text-align: center;
-    margin-top: 50px;
+    margin: 50px auto 0;
 		width: 800px;
-		position: fixed;
+		/*position: fixed;*/
 		font-size: 1.8em;
 	}
-	#explain { font-size: 1.4em; }
+  #description {
+    /* it's fine */
+  }
+	#footer {
+    margin-top: 3em;
+    font-size: 0.8em;
+    clear: both;
+  }
 
-	#codebox {
-	          width:704px;
-	          height:806px;
-	          margin-top: 10px;
-	}
-	/*#libraryContainer {border: 1px solid LightGray;
-	          width:704px;
-	          height:806px;
-	          margin-top: 10px;
-	}*/
-	#textcontainer {font: 1.4em;
-	    margin-left: 320px;
-	    margin-right: 10px;
-	    margin-top:   10px;
-	}
-
-	#footer {clear:both;}
-
-	#canvas { border: 10px solid black; }
-	#libraryBox { border: 1px solid DarkGray; }
 	a:link { color: #f9f9f6; }
+  a:hover { color: #ff00ff; }
 	a:visited { color: #999; }
-	h1 { font: Strong 18px Cambria, Georgia, Times New Roman, Calibri, serif;
-	     margin-left: 10px;
-	}
-	#nextLink { float:right;
-	    margin-right:30px
-	}
 
-	    </style>
+</style>
 
 
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
 
 <script type="text/javascript" charset="utf-8">
 //
@@ -77,16 +58,15 @@ $(document).ready(function(){
 	}
 
 
-
-
 	var x = 25;
 	var y = 250;
-	var dx = 3;
-	var dy = -8;
+  var dx = 3;
+  var dy = -5;
 	var ctx;
 	var WIDTH = $("#canvas").width()
 	var HEIGHT = $("#canvas").height()
-	var paddlex = WIDTH / 2;
+	//var paddlex = WIDTH / 2;
+  var paddlex = 80; // be nice and start with a hit :)
 	var paddleh = 10;
 	var paddlew = 75;
 	var rightDown = false;
@@ -95,13 +75,12 @@ $(document).ready(function(){
 	var canvasMaxX = 0;
 	var intervalId = 0;
 	var bricks;
-	// var NROWS = 13;
-	// var NCOLS = 10;
 	var NROWS = 13;
 	var NCOLS = 5;	
 	var BRICKWIDTH = (WIDTH/NCOLS) - 1;
 	var BRICKHEIGHT = 15;
 	var PADDING = 1;
+  var ARROW_NUDGE_DISTANCE = 8;
 
 	function init() {
 	  ctx = $('#canvas')[0].getContext("2d");
@@ -187,8 +166,6 @@ $(document).ready(function(){
 	}
 
 
-
-
 	var ballr = 10;
 	var rowcolors = 
 		[
@@ -206,20 +183,20 @@ $(document).ready(function(){
 	  ctx.fillStyle = ballcolor;
 	  circle(x, y, ballr);
 
-	  if (rightDown) paddlex += 5;
-	  else if (leftDown) paddlex -= 5;
+	  if (rightDown) paddlex += ARROW_NUDGE_DISTANCE;
+	  else if (leftDown) paddlex -= ARROW_NUDGE_DISTANCE;
 	  ctx.fillStyle = paddlecolor;
 	  rect(paddlex, HEIGHT-paddleh, paddlew, paddleh);
 
 	  drawbricks();
 
-	  //want to learn about real collision detection? go read
+	  // want to learn about real collision detection? go read
 	  // http://www.harveycartel.org/metanet/tutorials/tutorialA.html
 	  rowheight = BRICKHEIGHT + PADDING;
 	  colwidth = BRICKWIDTH + PADDING;
 	  row = Math.floor(y/rowheight);
 	  col = Math.floor(x/colwidth);
-	  //reverse the ball and mark the brick as broken
+	  // reverse the ball and mark the brick as broken
 	  if (y < NROWS * rowheight && row >= 0 && col >= 0 && bricks[row][col] == 1) {
 	    dy = -dy;
 	    bricks[row][col] = 0;
@@ -252,23 +229,22 @@ $(document).ready(function(){
 </head>
 
 <body>
-	<div id="canvascontainer">
+	<div id="container">
 
 		<canvas id="canvas" width="700" height="500"></canvas>
 
-		<div id="description" style="text-align:center;">
-			<!-- <p><input type="submit" value="run" id="runButton"/> -->
+		<div id="description">
 			<p>
-				refresh to play again
-				
+				refresh to try again
+      </p>
 		</div>
 
 		<div id="footer">
-			<!-- <p>
-				<a href="http://jamiedubs.com">jamie dubs</a> 
+			<p>
+				<a href="https://jamiedubs.com">jamie dubs</a> 
 				+ <a href="http://markjenkins.com">mark jenkins</a> 
 				+ <a href="http://fffff.at">FAT Lab</a>
-			</p> -->
+			</p>
   </div>
 
 </body>
