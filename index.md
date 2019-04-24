@@ -107,6 +107,26 @@ where students grades depended on generating Internet traffic.
 <p>Here is an incomplete list of other projects:</p>
 
 * <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)
+* <a href="/googlealarm">Google Alarm</a> (2010)
+* <a href="http://occupyinter.net">Occupy Internet</a> (2010)
+* <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)</a> (2010)
+* <a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
+* <a href="http://000book.com">000000book</a> (2009)
+* <a href="/canvasplayer">Canvasplayer</a> (2009)
+* <a href="/quotable-kanye">Quotable Kanye</a> (2009)
+* <a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)
+* <a href="/KANYERANTS">Kanye Rant Detector</a> (2009)
+* <a href="/meme-breaks">Meme Breaks</a> (2008)
+* <a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
+* <a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)
+* <a href="http://rickrolldb.com">Rickroll Database</a> (2007)
+* <a href="http://fuckflickr.com">FuckFlickr</a> (2007)
+* <a href="/big-rip">BIG_RIP.js</a> (2007)
+* <a href="/breakout-usa">Breakout USA</a> (2007)
+* <a href="/matrixmaker">Product Management Approval Matrix</a> (2007)
+
+{% comment %}
+* <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)
   - digitizing turntablism
   - see also Graffiti Markup Language (.gml)
 * <a href="/googlealarm">Google Alarm</a> (2010)
@@ -179,6 +199,8 @@ where students grades depended on generating Internet traffic.
 * Tave Imagination
 * FolderIconMaker
  -->
+{% endcomment %}
+
 
 <p>Here are some more lists I'm working on:
 
