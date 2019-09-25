@@ -56,7 +56,7 @@ TODO investors, cool tech?, notable clients
   Some of my favorite episodes are embedded below.
   The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand an obscure reference.
 
-<p><img src="https://dl.dropboxusercontent.com/s/b4n1zdnxs0fhg5e/2017-07-10%20at%2011.09%20PM%20%281%29.png" />
+<p><img src="images/know-your-meme-old-site-design.jpg" alt="Know Your Meme website screenshot" width="100%" />
 
 <!--<p><img src="https://dl.dropboxusercontent.com/s/gcrcqs7ponvuor0/2017-07-10%20at%2011.09%20PM.png" />-->
 
@@ -83,7 +83,7 @@ TODO investors, cool tech?, notable clients
  and <a href="http://fffff.at/author/jamie">many more</a>.
 
 <p>Here's the crew with the fake Google Street View car we built in 2015:</p>
-<p><img src="images/fat-lab-group-shot.png" />
+<p><img src="images/fat-lab-group-shot.jpg" width="100%" />
 
 <p><img src="images/fat-diagram-500px.jpg" width="100%" />
 
