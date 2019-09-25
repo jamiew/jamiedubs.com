@@ -3,8 +3,6 @@ title: Jamie Wilkinson - official Internet homepage &nbsp; ᕦ(ò_óˇ)ᕤ
 layout: default
 ---
 
-<script src="https://assets.digitalclimatestrike.net/widget.js" async></script>
-
 <h1>Jamie "Dubs" Wilkinson</h1>
 
 <p>I am an American computer programmer and entrepreneur.
