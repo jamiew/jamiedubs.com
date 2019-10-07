@@ -14,15 +14,29 @@ layout: default
 
 <p>
   I'm currently available for consulting and investment opportunities.
+  <!-- TODO what I'm looking for -->
 
 <p>
   Contact me: <a href="http://twitter.com/jamiew">@jamiew</a> on Twitter
   or email "jamie@<i>[[thisdomain]]</i>.com"
 
+<p>
+  Sign up for my email newsletter, sent a few times per year (max)
+  <form action="https://tinyletter.com/jamiedubs" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jamiedubs', 'popupwindow', 'scrollbars=yes,width=800,height=600'); return true">
+    <input type="text" style="width: 340px" name="email" id="tlemail" />
+    <input type="hidden" value="1" name="embed"/>
+    <input type="submit" value="Subscribe" />
+  </form>
+
 {% comment %}
 <p>
   I am (@jamiew)[https://github.com/jamiew] on GitHub
   and here is (my PGP public key)[/pgp-public-key.txt]
+
+  <!-- TODO things I'm learning about
+      tutors I'm looking for
+      subjects I can teach
+      /mentorship -->
 
 <p>
   I am currently...
@@ -34,6 +48,8 @@ layout: default
 
 {% endcomment %}
 
+<hr />
+
 <p>
   From 2010-2018 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
@@ -41,9 +57,6 @@ layout: default
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
   We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
   The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
-{% comment %}
-TODO investors, cool tech?, notable clients
-{% endcomment %}
 
 <p>
   After VHX and Vimeo I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
@@ -76,10 +89,10 @@ TODO investors, cool tech?, notable clients
 <p>I contributed to lots of small and large projects, all released as open-source, including
  <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language</a>,
  <a href="http://jamiedubs.com/google-alarm">Google Alarm</a>,
- Internet Famous Class,
+ <a href="https://web.archive.org/web/20130720124322/internetfamo.us/class">Internet Famous Class</a>,
  <a href="http://occupyinter.net">occupyinter.net</a>,
- FuckFlickr,
- the Kanye Rant Detector,
+ <a href="https://github.com/jamiew/fuckflickr">FuckFlickr</a>,
+ <a href="https://twitter.com/kanyerants">The Kanye Rant Detector</a>,
  and <a href="http://fffff.at/author/jamie">many more</a>.
 
 <p>Here's the crew with the fake Google Street View car we built in 2015:</p>
