@@ -113,6 +113,8 @@ where students grades depended on generating Internet traffic.
 
 <!--<p>My blog is <a href="http://jamiew.tumblr.com">jamiew.tumblr.com</a>-->
 
+<hr />
+
 <p>I love open-source software and publish as much code as possible on <a href="https://github.com/jamiew">github.com/jamiew</a>
 
 <!--<div id="github-widget" data-user="jamiew" data-display="pop_repos,contribution,calendar"></div>-->
@@ -216,12 +218,15 @@ where students grades depended on generating Internet traffic.
  -->
 {% endcomment %}
 
+<hr />
 
 <p>Here are some more lists I'm working on:
 
 <p>• <a href="/press-mentions">List of press mentions</a></p>
 
 <p>• <a href="/exhibitions">List of exhibitions</a></p>
+
+<hr />
 
 <p>Here's some videos I've helped make:
 
