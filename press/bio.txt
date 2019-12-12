@@ -1,14 +1,16 @@
-Jamie Wilkinson is the co-founder and CEO of VHX, an eCommerce platform for film, television and video in general. He is the co-creator of Know Your Meme, taught the Internet Famous Class, won a Primetime Emmy for his work on Star Wars Uncut, and regularly speaks on the subjects of Internet culture and creative production. His work has been featured on NBC, TIME, CNN, NPR, the New York Times and the frontpage of YouTube.
+Jamie Wilkinson is an American entrepreneur and software developer. He was the co-founder and CEO of the Internet video startup VHX, acquired by Vimeo in 2016, and most recently served as the Chief Product Officer at Kickstarter.
+
+He is the co-creator of the popular Internet culture database Know Your Meme, won a Primetime Emmy for his work on the crowdsourced film Star Wars Uncut, and was a founding member of the Free Art & Technology Lab (FAT), an art collective working in copyright, privacy, and pop culture.
+
+His work has been featured on NBC, TIME, CNN, the New York Times and the frontpage of YouTube.
 
 Website:
-http://jamiedubs.com
+https://jamiedubs.com
 
 Contact:
 jamie@jamiedubs.com
-http://twitter.com/jamiew
+https://twitter.com/jamiew
+https://github.com/jamiew
 
 Headshot:
-1: https://dl.dropboxusercontent.com/s/k3vm9ygd0o0eh4x/jamiew-headshot-1%20%281%29.png
-
-2: http://www.flickr.com/photos/laughingsquid/4570435837/
-(by Scott Beale / Laughing Squid; cc by-nc-nd licensed)
+https://jamiedubs.com/press/headshot-2017-canon.jpg
