@@ -74,18 +74,20 @@ layout: default
 
 <!--<p><img src="http://i2.kym-cdn.com/photos/images/newsfeed/000/428/023/6d9.jpg" />-->
 
-<p>In 2010 I won a Primetime Emmy for my work on <a href="http://starwarsuncut.com">Star Wars Uncut</a>,
-  where we chopped the original Star Wars movie into 15 second pieces and invited the Internet
+<p>In 2010 I won a Primetime Emmy for my work on  the crowdsourced movie
+  <a href="http://starwarsuncut.com">Star Wars Uncut</a>, 
+  – "Outstanding Achievement in Interactive Media".
+  We chopped the original Star Wars movie into 15 second pieces and invited the Internet
   to recreate them, one scene at a time. The project was created by
   <a href="http://caseypugh.com">Casey Pugh</a>, my co-founder at VHX.
 
 <p><img src="images/star-wars-uncut-poster-by-malcom-sutherland.jpg" />
 
+<p>From 2007 until we shut it down in 2016 I was a member of the open-source art collective
+  <a href="http://fffff.at">FAT Lab (Free Art & Technology)</a>,
+  a group of designers, hackers, and activists "releasing early, often and w/ rap music."
 
-<p>From 2007 to 2016 I was a member of the <a href="http://fffff.at">FAT Lab (Free Art & Technology)</a>,
- a group of artists, hackers, and activists "releasing early, often and w/ rap music."
-
-<p>I contributed to lots of small and large projects, all released as open-source, including
+<p>I contributed to lots of small and large projects with the group, including
  <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language</a>,
  <a href="http://jamiedubs.com/google-alarm">Google Alarm</a>,
  <a href="https://web.archive.org/web/20130720124322/internetfamo.us/class">Internet Famous Class</a>,
