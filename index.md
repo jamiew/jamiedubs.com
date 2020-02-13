@@ -20,8 +20,8 @@ layout: default
   or email "jamie@<i>[[thisdomain]]</i>.com"
 
 <p>
-  I am [@jamiew](https://github.com/jamiew) on GitHub,
-  and here is [my PGP public key](/pgp-public-key.txt)
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub,
+  and this is <a href="/pgp-public-key.txt">my PGP public key</a>
 
 <p>
   Sign up for my email newsletter, sent at most a few times per year:
