@@ -13,12 +13,15 @@ layout: default
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <p>
-  I'm currently available for consulting and investment opportunities.
-  <!-- TODO what I'm looking for -->
+  I'm currently consulting with mostly early-stage startups. Please get in touch if you think I could help.
 
 <p>
-  Contact me: <a href="http://twitter.com/jamiew">@jamiew</a> on Twitter
+  Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
+
+<p>
+  I am (@jamiew)[https://github.com/jamiew] on GitHub,
+  and here is (my PGP public key)[/pgp-public-key.txt]
 
 <p>
   Sign up for my email newsletter, sent at most a few times per year:
@@ -29,14 +32,10 @@ layout: default
   </form>
 
 {% comment %}
-<p>
-  I am (@jamiew)[https://github.com/jamiew] on GitHub
-  and here is (my PGP public key)[/pgp-public-key.txt]
-
   <!-- TODO things I'm learning about
       tutors I'm looking for
       subjects I can teach
-      /mentorship -->
+      mentorship -->
 
 <p>
   I am currently...
