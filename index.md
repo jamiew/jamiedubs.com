@@ -50,16 +50,16 @@ layout: default
 <hr />
 
 <p>
+  Most recently I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
+  where I led engineering, product, design and data.
+
+<p>
   From 2010-2018 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
   In 2017 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
   We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
   The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
-
-<p>
-  After VHX and Vimeo I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
-  where I led product, data and engineering.
 
 <p>
   In 2008, I helped create <a href="http://knowyourmeme.com">Know Your Meme</a>,
