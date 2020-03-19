@@ -15,13 +15,16 @@ layout: default
 <p>
   I'm currently consulting with mostly early-stage startups. Please get in touch if you think I could help.
 
-<p>
   Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
+  (<a href="/pgp-public-key.txt">PGP key</a>)
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub,
-  and this is <a href="/pgp-public-key.txt">my PGP public key</a>
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub 
+  <!--and currently maintain:
+  <a href="https://github.com/jamiew/git-friendly">git-friendly</a>
+  ,<a href="https://github.com/jamiew/blackbook">blackbook</a>
+  -->
 
 <p>
   Sign up for my email newsletter, sent at most a few times per year:
