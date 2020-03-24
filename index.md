@@ -130,24 +130,24 @@ where students grades depended on generating Internet traffic.
 <p>Here is an incomplete list of other projects:</p>
 
 <ul>
-<li><a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)
-<li><a href="/googlealarm">Google Alarm</a> (2010)
-<li><a href="http://occupyinter.net">Occupy Internet</a> (2010)
-<li><a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)</a> (2010)
-<li><a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
-<li><a href="http://000book.com">000000book</a> (2009)
-<li><a href="/canvasplayer">Canvasplayer</a> (2009)
-<li><a href="/quotable-kanye">Quotable Kanye</a> (2009)
-<li><a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)
-<li><a href="/KANYERANTS">Kanye Rant Detector</a> (2009)
-<li><a href="/meme-breaks">Meme Breaks</a> (2008)
-<li><a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
-<li><a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)
-<li><a href="http://rickrolldb.com">Rickroll Database</a> (2007)
-<li><a href="http://fuckflickr.com">FuckFlickr</a> (2007)
-<li><a href="/big-rip">BIG_RIP.js</a> (2007)
-<li><a href="/breakout-usa">Breakout USA</a> (2007)
-<li><a href="/matrixmaker">Product Management Approval Matrix</a> (2007)
+<li><a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)</li>
+<li><a href="/googlealarm">Google Alarm</a> (2010)</li>
+<li><a href="http://occupyinter.net">Occupy Internet</a> (2010)</li>
+<li><a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)</a> (2010)</li>
+<li><a href="/jsonview-chrome">JSONView for Chrome</a> (2010)</li>
+<li><a href="http://000book.com">000000book</a> (2009)</li>
+<li><a href="/canvasplayer">Canvasplayer</a> (2009)</li>
+<li><a href="/quotable-kanye">Quotable Kanye</a> (2009)</li>
+<li><a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)</li>
+<li><a href="/KANYERANTS">Kanye Rant Detector</a> (2009)</li>
+<li><a href="/meme-breaks">Meme Breaks</a> (2008)</li>
+<li><a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)</li>
+<li><a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)</li>
+<li><a href="http://rickrolldb.com">Rickroll Database</a> (2007)</li>
+<li><a href="http://fuckflickr.com">FuckFlickr</a> (2007)</li>
+<li><a href="/big-rip">BIG_RIP.js</a> (2007)</li>
+<li><a href="/breakout-usa">Breakout USA</a> (2007)</li>
+<li><a href="/matrixmaker">Product Management Approval Matrix</a> (2007)</li>
 </ul>
 
 {% comment %}
