@@ -12,7 +12,7 @@ layout: default
 <p>
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-
+<p>
   Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
   (<a href="/pgp-public-key.txt">PGP key</a>)
