@@ -12,12 +12,11 @@ layout: default
 <p>
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
-<p>
-  I'm currently consulting with mostly early-stage startups. Please get in touch if you think I could help.
 
   Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
   (<a href="/pgp-public-key.txt">PGP key</a>)
+
 
 <p>
   I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub 
@@ -53,15 +52,20 @@ layout: default
 <hr />
 
 <p>
-  Most recently I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
-  where I led engineering, product, design and data.
+  I'm currently consulting on technology & product development.
+  Please get in touch if you think I might be able to help.
 
 <p>
-  From 2010-2018 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
+  Most recently I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
+  where I led the engineering, product, design and data teams.
+
+<p>
+  From 2010-2017 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
   In 2017 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
-  We had the privilege of working with thousands of small businesses as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
+  We had the privilege of working with thousands of small businesses,
+  as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
   The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
 
 <p>
