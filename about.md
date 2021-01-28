@@ -1,3 +1,7 @@
+---
+title: About the author
+---
+
 <p>
   I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
