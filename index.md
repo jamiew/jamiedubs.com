@@ -3,8 +3,6 @@ title: Jamie Wilkinson - official Internet homepage &nbsp; ᕦ(ò_óˇ)ᕤ
 layout: default
 ---
 
-<h1>Jamie "Dubs" Wilkinson</h1>
-
 <p>I am an American computer programmer and entrepreneur.
 
 <p>Here is an awkward interview with me:
@@ -19,7 +17,7 @@ layout: default
 
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub 
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub
   <!--and currently maintain:
   <a href="https://github.com/jamiew/git-friendly">git-friendly</a>
   ,<a href="https://github.com/jamiew/blackbook">blackbook</a>
@@ -82,7 +80,7 @@ layout: default
 <!--<p><img src="http://i2.kym-cdn.com/photos/images/newsfeed/000/428/023/6d9.jpg" />-->
 
 <p>In 2010 I won a Primetime Emmy for my work on  the crowdsourced movie
-  <a href="http://starwarsuncut.com">Star Wars Uncut</a>, 
+  <a href="http://starwarsuncut.com">Star Wars Uncut</a>,
   – "Outstanding Achievement in Interactive Media".
   We chopped the original Star Wars movie into 15 second pieces and invited the Internet
   to recreate them, one scene at a time. The project was created by
