@@ -22,6 +22,14 @@
   </div>
 
   <div id="content">
+    {% if page.id %}
+      <h2>{{ page.title }}</h2>
+      <ul id="metadata">
+        <li>Posted {{ page.date | date: "%B %-d, %Y" }}</li>
+        <li>Tagged {{ page.categories }}</li>
+      </ul>
+    {% endif %}
+
     {{ content }}
   </div>
 

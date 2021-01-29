@@ -1,6 +1,10 @@
 ---
 title: In defense of burning fossil fuels to support cryptoart
 date: 2021-01-21
+categories:
+- crypto
+- art
+- climate
 ---
 
 Dr. Memo Akten recently published [a scathing analysis](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053) of the carbon cost of Ethereum transactions. He was specifically evaluating Ethereum in the context of buying and selling digital art using non-fungible tokens (NFTs) on platforms like Rarible and OpenSea. His math suggests the average NFT sale requires around 340 kWh and 211 KgCO2, which is equivalent to the average EU citizen's electric usage for a month, which is crazy. Some people dispute the specifics of Memo's numbers, but it is directionally correct: blockchains in 2021 are extremely energy-intensive and wasteful. 

@@ -3,10 +3,7 @@ title: Jamie Wilkinson
 timezone: America/New_York
 collections:
   posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
+    title: Blog posts
     output: true
 email: jamie@jamiedubs.com
 description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
