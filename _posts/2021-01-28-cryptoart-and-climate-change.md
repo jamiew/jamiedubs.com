@@ -1,6 +1,7 @@
 ---
 title: In defense of burning fossil fuels to support cryptoart
 date: 2021-01-21
+draft: true
 categories:
 - crypto
 - art
