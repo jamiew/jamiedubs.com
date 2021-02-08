@@ -8,8 +8,6 @@ categories:
 - climate
 ---
 
-# In defense of burning fossil fuels to support crypto art
-
 Dr. Memo Akten recently published [a scathing analysis](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053) of the carbon cost of cryptoart and non-fungible tokens (NFTs). By his math a single NFT sale requires about 340 kWh, which is equivalent to an EU citizen’s electricity usage for a month, or about a 2-hour roundtrip flight. Some people dispute the specifics of Dr. Atken’s numbers, but it is directionally correct. Bitcoin and Ethereum as-is are extremely energy-intensive and wasteful, by design. Because of this, Dr. Atken suggests artists should boycott blockchains and cryptoart until they improve.
 
 I believe these carbon costs are short-term and are outweighed by the potential long-term benefits of blockchains, and the need for community participation. I would encourage him and others to leverage their skill and critical voice to improve crypto systems for a few reasons:
