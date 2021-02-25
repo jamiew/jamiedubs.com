@@ -7,13 +7,13 @@ categories:
 
 I'm (finally) reading _Skin in the Game_ by Nassim Nicholas Talib. The chapter on "Equality in Uncertainty" felt particularlty relevant to a post I saw this morning:
 
-> Sometimes I would offer something for sale for, say, $5, but communicated with the client through a salesperson, and the salesperson would come back with an “improvement,” of $5.10. Something never felt right about the extra ten cents. It was, simply, not a sustainable way of doing business. What if the customer subsequently discovered that my initial offer was $5? No compensation is worth the feeling of shame. The overcharge falls in the same category as the act of “stuffing” people with bad merchandise.
+> Sometimes I would offer something for sale for, say, $5, but communicated with the client through a salesperson, and the salesperson would come back with an "improvement," of $5.10. Something never felt right about the extra ten cents. It was, simply, not a sustainable way of doing business. What if the customer subsequently discovered that my initial offer was $5? No compensation is worth the feeling of shame. The overcharge falls in the same category as the act of "stuffing" people with bad merchandise.
 
 This hit me hard: "no compensation is worth the feeling of shame." I've been in many executive meetings where people are trial-ballooning exploitive ideas and seeing what they might be able to get away with. They were usually pretty small: quietly removing some features from a particular paid plan, or deleting embarassing old blog posts. Sometimes they were egregious.  One that will always bother me is when companies intentionally don't explain how employee stock options work. Investors and executives know full-well that they'll claw back 90% of those options when employees realize they have to buy the options upfront.
 
 Sometimes I objected in these meetings, but not always.
 
-The point Mr. Talib is trying to make is that we should always behave ethically, even when it's not necessary. I'm reminded of Steve Jobs' anecdote about his father spending as much time sanding the back of a piece of a furniture as the front. The ideal busines relationship would be one where everyone has perfectly shared information and aligned incentives, but those situations are rare.
+The point Mr. Talib is trying to make is that we should always behave ethically, even when it's not necessary. I'm reminded of Steve Jobs's anecdote about his father spending as much time sanding the back of a piece of a furniture as the front. The ideal busines relationship would be one where everyone has perfectly shared information and aligned incentives, but those situations are rare.
 
 We should not overchage customers just because we can get away with it. We should act as if one day all of our emails and DMs will be public. We should pay people like they'll eventually see everyone else's salaries. And – most difficultly – we should speak up when we hear friends or coworkers trying to sneak one in. I think positive, moral behavior is contagious.
 
