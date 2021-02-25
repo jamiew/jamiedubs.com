@@ -1,6 +1,12 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
-  <title>{{ page.title }}</title>
+  <title>
+  {%- if page.url == '/' -%}
+    {{ page.title }}
+  {%- else -%}
+    {{ page.title | append: ' | jamiedubs.com' }}
+  {%- endif -%}
+  </title>
 
   <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32" />
   <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16" />
@@ -22,7 +28,7 @@
   </div>
 
   <div id="content">
-    {% if page.id %}
+    {%- if page.id -%}
       <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
 
       <!-- FIXME DRY with blog.html -->
@@ -34,7 +40,7 @@
           {% endfor %}
         </div>-->
       </div>
-    {% endif %}
+    {%- endif -%}
 
     <div class="body">
       {{ content }}
