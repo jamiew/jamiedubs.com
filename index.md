@@ -3,18 +3,19 @@ title: Jamie Wilkinson - official Internet homepage &nbsp; ᕦ(ò_óˇ)ᕤ
 layout: default
 ---
 
-<p>I am an American computer programmer and entrepreneur.
+<p>I am an American computer programmer and entrepreneur.</p>
 
-<p>Here is an awkward interview with me:
+<p>Here is an awkward interview with me:</p>
 
 <p>
   <iframe src="https://player.vimeo.com/video/172932512?title=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+</p>
 
 <p>
   Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
   (<a href="/pgp-public-key.txt">PGP key</a>)
-
+</p>
 
 <p>
   I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub
@@ -22,6 +23,7 @@ layout: default
   <a href="https://github.com/jamiew/git-friendly">git-friendly</a>
   ,<a href="https://github.com/jamiew/blackbook">blackbook</a>
   -->
+</p>
 
 <p>
   Sign up for my email newsletter, sent at most a few times per year:
@@ -30,6 +32,7 @@ layout: default
     <input type="hidden" value="1" name="embed"/>
     <input type="submit" value="Subscribe" />
   </form>
+</p>
 
 {% comment %}
   <!-- TODO things I'm learning about
@@ -44,6 +47,7 @@ layout: default
   I'm currently learning about distributed systems and blockchains
   Interests: healthcare, security, machine learning,
   DIY home media centers
+</p>
 
 {% endcomment %}
 
@@ -52,11 +56,11 @@ layout: default
 <p>
   I'm currently consulting on technology & product development.
   Please get in touch if you think I might be able to help.
-
+</p>
 <p>
   Most recently I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
   where I led the engineering, product, design and data teams.
-
+</p>
 <p>
   From 2010-2017 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
@@ -65,15 +69,16 @@ layout: default
   We had the privilege of working with thousands of small businesses,
   as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
   The company was backed by investors like Union Square Ventures, Comcast Ventures, Lerer Ventures, Chris Sacca, Alexis Ohanian and more.
-
+</p>
 <p>
   In 2008, I helped create <a href="http://knowyourmeme.com">Know Your Meme</a>,
   a community-edited database of Internet culture (like Wikipedia).
   We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
   The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand an obscure reference.
+</p>
 
-<p><img src="images/know-your-meme-old-site-design.jpg" alt="Know Your Meme website screenshot" width="100%" />
+<p><img src="images/know-your-meme-old-site-design.jpg" alt="Know Your Meme website screenshot" width="100%" /></p>
 
 <!--<p><img src="https://dl.dropboxusercontent.com/s/gcrcqs7ponvuor0/2017-07-10%20at%2011.09%20PM.png" />-->
 
@@ -85,13 +90,13 @@ layout: default
   We chopped the original Star Wars movie into 15 second pieces and invited the Internet
   to recreate them, one scene at a time. The project was created by
   <a href="http://caseypugh.com">Casey Pugh</a>, my co-founder at VHX.
-
-<p><img src="images/star-wars-uncut-poster-by-malcom-sutherland.jpg" />
+</p>
+<p><img src="images/star-wars-uncut-poster-by-malcom-sutherland.jpg" /></p>
 
 <p>From 2007 until we shut it down in 2016 I was a member of the open-source art collective
   <a href="http://fffff.at">FAT Lab (Free Art & Technology)</a>,
   a group of designers, hackers, and activists "releasing early, often and w/ rap music."
-
+</p>
 <p>I contributed to lots of small and large projects with the group, including
  <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language</a>,
  <a href="http://jamiedubs.com/google-alarm">Google Alarm</a>,
@@ -100,28 +105,28 @@ layout: default
  <a href="https://github.com/jamiew/fuckflickr">FuckFlickr</a>,
  <a href="https://twitter.com/kanyerants">The Kanye Rant Detector</a>,
  and <a href="http://fffff.at/author/jamie">many more</a>.
-
+</p>
 <p>Here's the crew with the fake Google Street View car we built in 2015:</p>
-<p><img src="images/fat-lab-group-shot.jpg" width="100%" />
+<p><img src="images/fat-lab-group-shot.jpg" width="100%" /></p>
 
-<p><img src="images/fat-diagram-500px.jpg" width="100%" />
+<p><img src="images/fat-diagram-500px.jpg" width="100%" /></p>
 
 <!--
 <p>I taught the Internet Famous Class at Parsons New School in 2007-2008,
 where students grades depended on generating Internet traffic.
+</p>
+<p><img src="https://dl.dropboxusercontent.com/s/t3f0p42x1dfonga/2017-07-10%20at%2011.05%20PM.png" /></p>
 
-<p><img src="https://dl.dropboxusercontent.com/s/t3f0p42x1dfonga/2017-07-10%20at%2011.05%20PM.png" />
+<p><img src="http://stimulatedboredom.com/wp-content/uploads/2013/07/Almost-Internet-Famous-Stimulated-Boredom.jpg" /></p>
 
-<p><img src="http://stimulatedboredom.com/wp-content/uploads/2013/07/Almost-Internet-Famous-Stimulated-Boredom.jpg" />
-
-<p><img src="http://fffff.at/fuckflickr/data/PRESS/time-frontpage.jpg" />
+<p><img src="http://fffff.at/fuckflickr/data/PRESS/time-frontpage.jpg" /></p>
 -->
 
-<!--<p>My blog is <a href="http://jamiew.tumblr.com">jamiew.tumblr.com</a>-->
+<!--<p>My blog is <a href="http://jamiew.tumblr.com">jamiew.tumblr.com</a></p>-->
 
 <hr />
 
-<p>I love open-source software and publish as much code as possible on <a href="https://github.com/jamiew">github.com/jamiew</a>
+<p>I love open-source software and publish as much code as possible on <a href="https://github.com/jamiew">github.com/jamiew</a></p>
 
 <!--<div id="github-widget" data-user="jamiew" data-display="pop_repos,contribution,calendar"></div>-->
 
