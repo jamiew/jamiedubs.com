@@ -9,7 +9,7 @@ email: jamie@jamiedubs.com
 description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
 baseurl: ''
 url: https://www.jamiedubs.com
-permalink: /blog/:title:output_ext
+permalink: /blog/:title
 twitter_username: jamiew
 github_username: jamiew
 markdown: kramdown
