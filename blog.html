@@ -8,15 +8,18 @@ title: Blog
   {% for post in site.posts %}
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+
+      <!-- FIXME DRY with default.html -->
       <div class="metadata">
         <div class="date">{{ post.date | date: "%Y-%m-%d" }}</div>
-        <div class="categories">
+        <!--<div class="categories">
           {% for category in post.categories %}
             <a href="/categories/{{ category }}">#{{ category }}</a>
           {% endfor %}
-        </div>
+        </div>-->
       </div>
-      <div class="excerpt">
+
+      <div class="body">
         {{ post.excerpt }}
       </div>
     </li>

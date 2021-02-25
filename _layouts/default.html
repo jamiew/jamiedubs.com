@@ -23,14 +23,22 @@
 
   <div id="content">
     {% if page.id %}
-      <h2>{{ page.title }}</h2>
-      <ul id="metadata">
-        <li>Posted {{ page.date | date: "%B %-d, %Y" }}</li>
-        <li>Tagged {{ page.categories }}</li>
-      </ul>
+      <h2><a href="{{ page.url }}">{{ page.title }}</a></h2>
+
+      <!-- FIXME DRY with blog.html -->
+      <div class="metadata">
+        <div class="date">{{ page.date | date: "%Y-%m-%d" }}</div>
+        <!--<div class="categories">
+          {% for category in page.categories %}
+            <a href="/categories/{{ category }}">#{{ category }}</a>
+          {% endfor %}
+        </div>-->
+      </div>
     {% endif %}
 
-    {{ content }}
+    <div class="body">
+      {{ content }}
+    </div>
   </div>
 
   <!-- <div id="footer"></div> -->

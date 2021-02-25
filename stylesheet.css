@@ -23,6 +23,7 @@ body {
 
 h2 {
   line-height: 2.5rem;
+  margin-bottom: 0;
 }
 
 a {
@@ -68,29 +69,22 @@ ul#blog li {
   margin-bottom: 3rem;
 }
 
-ul#blog li h2 {
-  margin-bottom: 0;
-}
-
-ul#blog li .metadata {
+#content .metadata {
   margin-top: 0.2rem;
+  /* margin-bottom: 5rem; */
 }
 
-ul#blog li .date {
-  /* font-weight: bold; */
-  float: left;
+#content .date {
   margin-right: 1rem;
 }
 
-ul#blog li .categories {
-  /* float: left; */
+#content .categories {
 }
 
-ul#blog li .categories a {
-  /* color: #777; */
+#content .categories a {
   text-decoration: none;
 }
 
-ul#blog li .excerpt {
+#content .body {
   clear: both;
 }
