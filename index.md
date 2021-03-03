@@ -18,6 +18,12 @@ layout: default
 </p>
 
 <p>
+  Proofs:<br />
+  Ethereum: <pre>jamiedubs.eth</pre> <br />
+  Helium Discord: <pre>jamiedubs#1105</pre>
+</p>
+
+<p>
   I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub
   <!--and currently maintain:
   <a href="https://github.com/jamiew/git-friendly">git-friendly</a>
@@ -342,3 +348,9 @@ where students grades depended on generating Internet traffic.
 
 <p><iframe src="https://player.vimeo.com/video/24338690?color=18d6cf&byline=0&portrait=0" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 {% endcomment %}
+
+<p>
+0xff00ff<br />
+0xffff00<br />
+RIP
+</p>
