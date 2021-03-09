@@ -26,7 +26,7 @@ For contrast, Netflix costs me $12/month and has 4-5k titles, which is a fractio
 * Figuring out which streaming service has a particular title is a pain in the neck. It's extremely convenient having everything accessible inside one app.
 * Plex's apps are better than most streaming service's apps. They're available on almost every platform, they're well-designed, and they're essentially free. Their paid [Plex Pass](https://www.plex.tv/plex-pass/) offering is $5/month and provides advanced features that most folks don't really need.
 * The social experience of a Plexshare is great. Being on a Discord server with other movie buffs is great. Having a direct communcation channel with staff is great. It has vibes of supporting a local business where know the owner.
-* It's fun to stick it to the man?
+* It's fun to stick it to the man
 
 Interestingly, these networks operate openly on reddit, and not on .onion darknet markets. I'm unclear on the legality of this whole setup, particularly e.g. if the server operators are in a copyvio-friendly jurisdiction like Sweden or New Zealand. How culpable is the end-user for streaming pirated content? Is it better or worse that they paid for access?
 
