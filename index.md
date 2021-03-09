@@ -14,11 +14,10 @@ layout: default
 <p>
   Contact me via Twitter <a href="http://twitter.com/jamiew">@jamiew</a>
   or email "jamie@<i>[[thisdomain]]</i>.com"
-  (<a href="/pgp-public-key.txt">PGP key</a>)
 </p>
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <pre>jamiedubs.eth</pre> on the world computer, and <pre>jamiedubs#1105</pre> on Discord
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#1105</code> on Discord. <a href="/pgp-public-key.txt">Here is my PGP key.</a>
 </p>
 
 <p>
