@@ -21,16 +21,18 @@ Customer support is often handled on very well-run Discord servers. Members can 
 
 ![](https://dl.dropboxusercontent.com/s%2Fgsrbx6f2cqhmbl1%2FScreen%2520Shot%25202021-03-09%2520at%252011-46-39%2520announcements%2520-%2520Discord%2520.png)
 
-For contrast, Netflix costs me $12/month and has 4-5k titles, a fraction of what's available on a given Plexshare. So there's obviously a bang-for-the-buck benefit, but I think it goes deeper than that:
-* There are tons of wonderful movies that are not available on any of the major streaming services. Worse, it might be on the service but it's not available in your region
+For contrast, Netflix costs me $12/month and has 4-5k titles, which is a fraction of what's available on the server above. So obviously there's a bang-for-the-buck benefit, but I think it goes deeper than that:
+* There are tons of wonderful movies that are not available on any of the major streaming services. Or it might be on the service, but not available in your region, which is an infuriating user experience.
 * Figuring out which streaming service has a particular title is a pain in the neck. It's extremely convenient having everything accessible inside one app.
-* Plex's apps are better than most streaming service's apps. They're available on almost every platform, are well-designed, and are essentially free. Their paid [Plex Pass](https://www.plex.tv/plex-pass/) is $5/month and provides pro features that most folks don't really need.
-* The social experience of a Plexshare is superior. Being on a Discord server with other movie buffs is great. Having a direct communcation channel with staff is great.
-* It's fun to stick it to the man
+* Plex's apps are better than most streaming service's apps. They're available on almost every platform, they're well-designed, and they're essentially free. Their paid [Plex Pass](https://www.plex.tv/plex-pass/) offering is $5/month and provides advanced features that most folks don't really need.
+* The social experience of a Plexshare is great. Being on a Discord server with other movie buffs is great. Having a direct communcation channel with staff is great. It has vibes of supporting a local business where know the owner.
+* It's fun to stick it to the man?
 
-Interestingly these networks also operate openly on reddit, and not on .onion darknet markets. I'm unclear on the legality of this whole setup, particularly e.g. if the server operators are in a copyvio-friendly jurisdiction like Sweden or New Zealand. How culpable is the end-user for streaming pirated content? Is it better or worse that they paid for access?
+Interestingly, these networks operate openly on reddit, and not on .onion darknet markets. I'm unclear on the legality of this whole setup, particularly e.g. if the server operators are in a copyvio-friendly jurisdiction like Sweden or New Zealand. How culpable is the end-user for streaming pirated content? Is it better or worse that they paid for access?
 
-I've also heard there is a similar underground economy for [[Parsec]]-based cloud gaming. Got a beefy gaming rig that mostly sits idle, and crypto mining not ROI positive? Just rent it out for others to play your games! Cloud gaming has come a long way, and Parsec's latency is excellent, totally managable for all of the but the most twitchy multiplayer games. [GeForceNow](https://geforcenow.com) and [Shadow.tech](https://shadow.tech) are great legit options, but the selection is limited, and you have to actually buy the games. Wouldn't it be nice to just pay per-minute for a machine that's fully loaded with AAA titles?
+I've also heard there is a similar underground economy for [[Parsec]]-based cloud gaming. Got a beefy gaming rig that mostly sits idle, and crypto mining isn't ROI positive? Just rent it out for others to play your games! 
+
+Cloud gaming has come a long way, and Parsec's latency is excellent, totally managable for all of the but the most twitchy multiplayer games. [GeForceNow](https://geforcenow.com) and [Shadow.tech](https://shadow.tech) are great legit options, but the selection is limited, and you have to actually buy the games. Wouldn't it be nice to just pay per-minute for a machine that's fully loaded with AAA titles?
 
 <!-- 
 Lastly, there's some ghosts of the private torrent trackers here. Elite music trackers like oink.fm and its successors what.cd, waffles.fm et al were all strict about `ratio` and participants contributing back to the illicit public good. To keep downloading, you needed to seed popular torrents, upload desirable original content, or in some cases, just contribute cash to help run the servers. Plexshares, by contrast, are dominated by simple $5-10/month P4S setups.
