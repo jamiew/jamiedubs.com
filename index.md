@@ -18,17 +18,7 @@ layout: default
 </p>
 
 <p>
-  Proofs:<br />
-  Ethereum: <pre>jamiedubs.eth</pre> <br />
-  Helium Discord: <pre>jamiedubs#1105</pre>
-</p>
-
-<p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub
-  <!--and currently maintain:
-  <a href="https://github.com/jamiew/git-friendly">git-friendly</a>
-  ,<a href="https://github.com/jamiew/blackbook">blackbook</a>
-  -->
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <pre>jamiedubs.eth</pre> on the world computer, and <pre>jamiedubs#1105</pre> on Discord
 </p>
 
 <p>
