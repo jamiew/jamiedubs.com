@@ -5,6 +5,7 @@ categories:
 - markets
 - plex
 - entertainment
+image: https://dl.dropboxusercontent.com/s%2Fnrzjiy788j8x2ir%2FScreen%2520Shot%25202021-03-09%2520at%252011-06-40%2520P4S%2520%2520EU%2520%2520US%2520%25201%2520Gbps%2520%2520Movies%252032%252C000%2520%25204K%2520Movies%25201300%2520%2520TV%2520Shows%25207000%2520%25204K%2520TV%2520Shows%2520400%2520%2520Anime%25205000%2520%2520Audio%2520Books%25201000%2526%2520.png
 ---
 
 I run a [[Plex]] home media center that stores all my very legally-acquired movies & TV shows and streams. My current stack is a mid-power NUC, a 4-bay Synology NAS, and a Chromecast Ultra on the TV, usually controlled by an iPhone.
@@ -24,7 +25,7 @@ Customer support is often handled on well-run Discord servers. Members can chat 
 For contrast: Netflix costs me $12/month and has 4-5k titles, which is a fraction of what's available on a good r/plexshares server. So while there's obviously a bang-for-the-buck benefit, I think it goes deeper than that:
 
 * There are tons of wonderful movies that are not available on any of the major streaming services. Worse, it might be on the service, but not available in your region.
-* It's extremely convenient having everything accessible inside one app. Figuring out which streaming service has a particular title is a pain in the neck. 
+* It's extremely convenient having everything accessible inside one app. Figuring out which streaming service has a particular title is a pain in the neck.
 * Plex's apps are better than most. They're available on almost every platform, they're well-designed, and they're essentially free. Their paid [Plex Pass](https://www.plex.tv/plex-pass/) offering is $5/month and provides advanced features that most folks don't really need.
 * The social experience of a Plexshare is great. Being on a Discord server with other movie buffs is great. Having a direct communcation channel with staff is great. It has vibes of supporting a local business where you know the owner.
 
@@ -40,9 +41,7 @@ Lastly, there's some comparisons and contrasts to draw with private torrent trac
 
 Thanks to [ChrisK](https://twitter.com/chriskurdzeil) for feedback on this post.
 
-Follow-ups: 
+Follow-ups:
 * [[crypto]] for censorship-resistant underground rental markets like this :sweat_smile:
 * what other niche services exist, besides mediacenters and cloud gaming?
 * p2p live TV streaming resyndication idea (e.g. competing with SnapStream)
-
-

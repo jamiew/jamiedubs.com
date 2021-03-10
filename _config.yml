@@ -6,6 +6,7 @@ collections:
     title: Blog posts
     output: true
 email: jamie@jamiedubs.com
+tagline: Technology & Internet culture
 description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
 baseurl: ''
 url: https://jamiedubs.com
@@ -21,3 +22,7 @@ defaults:
   -
     values:
       layout: default
+twitter:
+  username: jamiew
+  card: summary
+logo: https://jamiedubs.com/images/mudkip_is_astounded3.png
