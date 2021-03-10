@@ -4,6 +4,7 @@ date: 2021-02-24
 categories:
 - helium
 - dewi
+- crypto
 ---
 
 In May I joined the board of DeWi, a non-profit associated with the [Helium](https://helum.com) p2p wireless network. So far our work has been primarily focused on establishing community governance of the network, via new [monthly community calls](https://dewi.org/community-call) and the [Helium Improvement Proposals (HIP)](https://github.com/helium/HIP) process.
