@@ -18,9 +18,11 @@
 
   <link rel="stylesheet" href="{{base_url}}/stylesheet.css" />
 
-  <!-- TODO configure and bring back the SEO plugin -->
-
   {%- include analytics.html -%}
+
+  {% feed_meta %}
+
+  {% seo %}
 
 </head>
 <body>
