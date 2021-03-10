@@ -46,7 +46,7 @@
     {%- endif -%}
 
     <div class="body">
-      {{ content }}
+      {{ content | replace: "[[", "" | replace: "]]", "" }}
     </div>
   </div>
 
