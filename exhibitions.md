@@ -12,4 +12,3 @@ w/ FAT Lab
 * 2008, New Museum Rhizome Commissions 08,[13] New York City, New York
 * 2007, Gadgetoff,[14] New York City, New York
 
-
