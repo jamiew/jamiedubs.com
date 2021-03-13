@@ -13,7 +13,6 @@ key="jamiedubs.com"
 # pull latest code and skip jekyll rebuild if no updates
 pull=$(git pull origin master)
 match=$(echo $pull | grep 'up to date') # very naive
-echo "git output: $pull => $match"
 if [ -n "$match" ]; then
   echo "It's up to date"
   exit 0
