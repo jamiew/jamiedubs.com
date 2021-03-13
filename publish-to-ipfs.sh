@@ -14,7 +14,7 @@ key="jamiedubs.com"
 pull=$(git pull origin master)
 match=$(echo $pull | grep 'up to date') # very naive
 echo "git output: $pull => $match"
-if [ -e "$match" ]; then
+if [ -n "$match" ]; then
   echo "It's up to date"
   exit 0
 else
