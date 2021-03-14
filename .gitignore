@@ -1,4 +1,5 @@
 *.sublime*
+.ipfs-hash
 .jekyll*
 .DS_Store
 .sass-cache

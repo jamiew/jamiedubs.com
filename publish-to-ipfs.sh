@@ -14,7 +14,7 @@ key="jamiedubs.com"
 # pull latest code and skip jekyll rebuild if no updates
 pull=$(git pull origin master)
 match=$(echo $pull | grep 'up to date') # very naive
-hashfile="last-ipfs-hash"
+hashfile=".ipfs-hash"
 
 if [ -n "$match" ] && [ -e "$hashfile" ]; then
   echo "It's up to date and hashfile exists"
