@@ -14,20 +14,26 @@ key="jamiedubs.com"
 # pull latest code and skip jekyll rebuild if no updates
 pull=$(git pull origin master)
 match=$(echo $pull | grep 'up to date') # very naive
-if [ -n "$match" ]; then
-  echo "It's up to date"
-  exit 0
+hashfile="last-ipfs-hash"
+
+if [ -n "$match" ] && [ -e "$hashfile" ]; then
+  echo "It's up to date and hashfile exists"
+  hash="$(cat $hashfile)"
+  echo "hash => $hash"
 else
   echo "Code was out of date, let's proceed..."
+  # bundle exec jekyll build -q && echo "Site build complete" || echo "Site build error!"
+  jekyll build --incremental && echo "Site build complete" || echo "Site build error!"
+
+  cd _site
+  npx all-relative
+  cd ..
+
+  hash=$(ipfs add --nocopy --fscache -Q -r _site)
+  echo "fresh hash for $hashfile => $hash"
+  echo $hash > $hashfile
 fi
 
-# bundle exec jekyll build -q && echo "Site build complete" || echo "Site build error!"
-jekyll build --incremental && echo "Site build complete" || echo "Site build error!"
-cd _site
-npx all-relative
-
-hash=$(ipfs add --nocopy --fscache -Q -r .)
-echo "hash=$hash"
 name=$(ipfs name publish --key="$key" -t="72h" -Q "$hash")
 echo "name=$name"
 
