@@ -3,7 +3,7 @@ set -e
 
 # be cron-friendly
 cd "$(dirname "$0")"
-export PATH="$PATH:$HOME/.rbenv/shims/"
+export PATH="$PATH:/usr/local/bin:$HOME/.rbenv/shims/"
 
 # config
 key="jamiedubs.com"
