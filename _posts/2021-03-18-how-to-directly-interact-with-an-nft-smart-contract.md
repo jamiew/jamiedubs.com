@@ -29,15 +29,15 @@ Peruse the code, nod thoughtfully to yourself, then switch to the "Read contract
 
 ![](https://dl.dropboxusercontent.com/s%2Fkjk99qvtey26k4b%2FScreen%2520Shot%25202021-03-18%2520at%252011-45-45%2520GenArt721Core%2520%25200xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270%2520.png)
 
-For NFT metadata we want the `tokenURI` method:
+For NFT metadata we want the `tokenURI` method. Punch in your tokenID and press "Query":
 
 ![](https://dl.dropboxusercontent.com/s%2Fu86hs93ar5dquih%2FScreen%2520Shot%25202021-03-18%2520at%252011-50-19%2520GenArt721Core%2520%25200xa7d8d9ef8d8ce8992df33d8b8cf4aebabd5bd270%2520.png%2528990293801%2529.png.png)
 
-Punch in your tokenID and press "Query":
+Congrats, you just queried data out of the Ethereum blockchain! With Ethereum you have to pay to write data (that's the gas fee), but read operations are free.
+
+That URL links to the the ERC-721 metadata for the NFT, which is usually stored as JSON:
 
 [![](https://dl.dropboxusercontent.com/s%2F0th781a7a032aio%2FScreen%2520Shot%25202021-03-18%2520at%252011-51-43%2520Mozilla%2520Firefox%2520.png)](https://api.artblocks.io/token/20000093)
-
-Congrats, you just queried data out of the Ethereum blockchain! With Ethereum you havee to pay to write data (that's the gas fee), but read operations are free.
 
 This particular NFT's metadata is hosted at https://api.artblocks.io/token/20000093 and the `image` is https://api.artblocks.io/image/20000093. Usually these are links to a distributed storage system like IPFS. For more about see my post [[IPFS and distributed storage for cryptoartists]]
 
