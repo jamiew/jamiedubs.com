@@ -7,7 +7,7 @@ categories:
 - nfts
 ---
 
-Want to better understand what's happening under the hood with an Ethereum NFTs? Here's how to read your artwork's metadata files and asset URLs directly from the blockchain using Etherscan.
+Want to better understand what's happening under the hood with an Ethereum NFT? Here's how to read your artwork's metadata files and asset URLs directly from the blockchain using Etherscan.
 
 First, find your NFT's contract address (`0xff..33`) and tokenID (e.g. `420`). 
 
