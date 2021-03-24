@@ -17,7 +17,6 @@ match=$(echo $pull | grep 'up to date') # very naive
 hashfile=".ipfs-hash"
 
 if [ -n "$match" ] && [ -e "$hashfile" ]; then
-  echo "It's up to date and hashfile exists"
   hash="$(cat $hashfile)"
   echo "hash => $hash"
 else
@@ -35,7 +34,7 @@ else
 fi
 
 name=$(ipfs name publish --key="$key" -t="72h" -Q "$hash")
-echo "name=$name"
+echo "name => $name"
 
 echo "Visit:"
 echo "https://ipfs.jamiedubs.com/ipfs/$hash"
