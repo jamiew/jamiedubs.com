@@ -6,7 +6,7 @@ categories:
 - auctions
 ---
   
-I've heard the term "Coldie auction" mentioned in cryptoland a few times, but I didn't know much about its history. I know it best as the auction model used by [Foundation](https://foundation.app/), but it dates back to a manual process run by the artist [Coldie](https://superrare.co/coldie), who has been selling cryptoart NFTs since 2018. Their preferred platform [SuperRare](https://medium.com/superrare/how-superrare-timed-auctions-work-a351058a6120) added native support for coldies in late 2020. 
+I've heard the term "Coldie auction" mentioned in cryptoland a few times, but I didn't know much about its history. I know it best as the auction model used by [Foundation](https://foundation.app/), but it dates back to a manual process run by the artist [Coldie](https://superrare.co/coldie), who has been selling cryptoart NFTs since 2018. Their preferred platform [SuperRare](https://medium.com/superrare/how-superrare-timed-auctions-work-a351058a6120) added native support for this style of auction in late 2020. 
 
 The basic mechanics:
 
@@ -17,7 +17,7 @@ The basic mechanics:
 
 I believe this would be taxonomized as a `timed reserve auction with bid-extension` ? I'm not an auctionologist, but I do know that [constraints breed creativity](https://twitter.com/aweissman/status/1274819313556471810), and I am a sucker for overanalyzing game designs.
 
-![Example of Coldie promoting one of his 24 hour reserve auctions](https://dl.dropboxusercontent.com/s%2Ftey7wo55bf8e1ka%2FScreen%2520Shot%25202021-03-25%2520at%252009-44-09%2520Coldie%2520on%2520Twitter%2520RESERVE%2520PRICE%2520REACHED%2520I%2520Remember%2520Live%2520Music%252001%252011%2520on%2520SuperRare%2520Current%2520bid%25208%2520ETH%2520by%2520jonathan%252024h%2526%2520.png)
+![Example of Coldie promoting one of their 24 hour reserve auctions](https://dl.dropboxusercontent.com/s%2Ftey7wo55bf8e1ka%2FScreen%2520Shot%25202021-03-25%2520at%252009-44-09%2520Coldie%2520on%2520Twitter%2520RESERVE%2520PRICE%2520REACHED%2520I%2520Remember%2520Live%2520Music%252001%252011%2520on%2520SuperRare%2520Current%2520bid%25208%2520ETH%2520by%2520jonathan%252024h%2526%2520.png)
 _https://twitter.com/Coldie/status/1365737081012580353_
 
 On Rarible, OpenSea and a few other NFT marketplaces, auctions are often open-ended: buyers place bids, and the auction ends whenever the owner accepts a bid. The winning bid doesn't even need to be the highest bid! Zora has expanded on that by adding [sell-on shares](https://zora.engineering/auction), which allows a bidder to offer a % of the first secondary sale along with their bid. This provides a financial mechanic that (hypothetically) increases the value of the bid, but the Zora team also recognize the social motivations that go along with explicitly choosing a buyer:
@@ -55,4 +55,4 @@ Lastly, using hours and minutes in a crypto auction is inherently problematic. B
 
 Happy bidding!
 
-Thanks for [Denis Nazarov](https://twitter.com/Iiterature/) for feedback and introducing me to the term originally.
+Thanks for [Denis Nazarov](https://twitter.com/Iiterature/) for feedback on this post, and for introducing me to the term originally.
