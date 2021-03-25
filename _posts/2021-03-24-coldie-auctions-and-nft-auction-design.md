@@ -6,7 +6,7 @@ categories:
 - auctions
 ---
   
-I've heard the term "Coldie auction" mentioned in cryptoland a few times, but I didn't know much about its history. I know it best as the auction model used by [Foundation](https://foundation.app/), but it dates back to a manual process run by the artist [Coldie](https://superrare.co/coldie), who has been selling cryptoart NFTs since 2018. His preferred platform [SuperRare](https://medium.com/superrare/how-superrare-timed-auctions-work-a351058a6120) added native support for coldies in late 2020. 
+I've heard the term "Coldie auction" mentioned in cryptoland a few times, but I didn't know much about its history. I know it best as the auction model used by [Foundation](https://foundation.app/), but it dates back to a manual process run by the artist [Coldie](https://superrare.co/coldie), who has been selling cryptoart NFTs since 2018. Their preferred platform [SuperRare](https://medium.com/superrare/how-superrare-timed-auctions-work-a351058a6120) added native support for coldies in late 2020. 
 
 The basic mechanics:
 
