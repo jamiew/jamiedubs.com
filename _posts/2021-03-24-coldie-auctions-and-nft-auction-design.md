@@ -15,7 +15,7 @@ The basic mechanics:
 * In Coldie's original model, any bid reset the 24 hour clock.
 * On Foundation, if a bid is placed in the last 15 minutes, the auction is extended by another 15 minutes
 
-I believe this would be taxonomized as a `timed reserve auction with bid-extension` ? I'm not an auctionologist, but I do know that [constraints breed creativity](https://twitter.com/aweissman/status/1274819313556471810), and I am a sucker for overanalyzing game designs.
+I believe this would be taxonomized as a `timed reserve auction with bid-extension` ? I'm not an auctionologist, but I do know that [constraints breed creativity](http://doesandybelieveinconstraints.com/), and I am a sucker for overanalyzing game designs.
 
 ![Example of Coldie promoting one of their 24 hour reserve auctions](https://dl.dropboxusercontent.com/s%2Ftey7wo55bf8e1ka%2FScreen%2520Shot%25202021-03-25%2520at%252009-44-09%2520Coldie%2520on%2520Twitter%2520RESERVE%2520PRICE%2520REACHED%2520I%2520Remember%2520Live%2520Music%252001%252011%2520on%2520SuperRare%2520Current%2520bid%25208%2520ETH%2520by%2520jonathan%252024h%2526%2520.png)
 _https://twitter.com/Coldie/status/1365737081012580353_
