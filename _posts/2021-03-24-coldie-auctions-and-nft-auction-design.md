@@ -37,7 +37,7 @@ I assume Coldie's original "each bid extends by 24 hours" choice was in part bec
 
 Foundation using a 15-minute bid extension creates a "nail-biter finish" which I think was beautifully captured by the [Nyan Cat auction livestream](https://www.twitch.tv/videos/947013029), in which PRguitarman and the Foundation staff were streaming for hours longer than they expected and freaking out as each new bid reset the clock:
 
-https://dl.dropboxusercontent.com/s%2Fnq51pub35kw8wz1%2FImage_DcerrvLkEF.png
+![](https://dl.dropboxusercontent.com/s%2Fnq51pub35kw8wz1%2FImage_DcerrvLkEF.png)
 
 Coldie was running this all manually, which I imagine was a lot of work. In Dec 2020, SuperRare namechecks Coldie while announcing their support for [timed reserve auctions](https://medium.com/superrare/how-superrare-timed-auctions-work-a351058a6120), which is one of the first mentions of "Coldie auction" I could find on ~~Google~~ DuckDuckGo.
 
