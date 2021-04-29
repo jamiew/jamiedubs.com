@@ -7,7 +7,7 @@ collections:
     output: true
 email: jamie@jamiedubs.com
 tagline: Technology & Internet culture
-description: "¯¯\\_(ツ)_/¯¯ I move away from the mic to breathe in\n"
+description: "I move away from the mic to breathe in"
 baseurl: ''
 url: https://jamiedubs.com
 permalink: /blog/:title/
