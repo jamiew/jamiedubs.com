@@ -17,7 +17,11 @@ layout: default
 </p>
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#1105</code> on Discord. <a href="/public-key.txt">Here is my PGP key.</a>
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#1105</code> on Discord. 
+</p>
+
+<p>
+  PGP fingerprint: <code>F187 2D25 BA0E DE60</code> &mdash; here's <a href="/public-key.txt">my PGP public key.</a>
 </p>
 
 <p>
