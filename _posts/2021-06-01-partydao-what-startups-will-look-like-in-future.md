@@ -24,7 +24,7 @@ Unlike most DAOs, which generally just collect and distribute money, they are ac
 I believe PartyDAO is a sneak preview of what many startups will look like in the future. 
 Spontaneously organized, cooperatively-owned, and funded by community tokens and crowdfunding. 
 
-They are open-source not necessarily because of their belief in contributing to the public good, but because it is an excellent marketing and recruitment strategy. They are cooperatively-organized not just because it is more fair and inclusive, but because it is less work, and everyone understands the benefits of [[skin in the game]]. The morally superior path provides practical benefits.
+They are open-source not necessarily because of their belief i n contributing to the public good, but because it is an excellent marketing and recruitment strategy. They are cooperatively-organized not just because it is more fair and inclusive, but because it is less work, and everyone understands the benefits of [[skin in the game]]. The morally superior path provides practical benefits.
 
 %%![[Screen Shot 2021-06-01 at 11-41-18 This DAO is here to $PARTY — Mirror .png]]%%
 ![A screenshot of Denis's tweet: "wouldn't it be cool if you could deploy an automatic DAO to bid on an NFT auction?"](https://dl.dropboxusercontent.com/s%2F8ubok71mp3pqro5%2Fimage_vydmd9hybm.png)
