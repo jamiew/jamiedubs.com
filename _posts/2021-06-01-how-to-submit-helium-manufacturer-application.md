@@ -4,7 +4,6 @@ published: true
 categories:
 - helium
 - howto
-internal:
 ---
 
 We use [[GitHub]] to manage the [[Helium Improvement Proposal]] process, which includes the hotspot manufacturer approval process (aka [HIP19](https://github.com/helium/HIP/issues/87), adopted Nov 2020)
