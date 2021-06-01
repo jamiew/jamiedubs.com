@@ -1,5 +1,5 @@
 ---
-title:How to submit a Helium manufacturer application
+title: How to submit a Helium hotspot manufacturer application
 published: true
 categories:
 - helium
