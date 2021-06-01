@@ -9,10 +9,8 @@ categories:
 
 There was a livestreamed collaborative design session for [PartyDAO]() last night, which sounds like it was a lot of fun. I missed the stream, but there is a [public Figma board](https://www.figma.com/file/129WL3Stz1PKSMblzG0ton/PartyDAO?node-id=0%3A1) you can dig through:
 
-%%![[Screen Shot 2021-06-01 at 10-50-06 PartyDAO – Figma .png]]%%
 ![](https://dl.dropboxusercontent.com/s%2Ffby1akx828fucri%2Fimage_kyy0ijac9l.png)
 
-%%![[Screen Shot 2021-06-01 at 10-34-56 PartyDAO – Figma .png]]%%
 ![](https://dl.dropboxusercontent.com/s%2Fo346fweildfg80d%2Fimage_q9g3wwdiup.png)
  
 The group is building PartyBid, an app for collectively bidding on NFTs (a la [PleasrDAO](https://twitter.com/pleasrdao))
@@ -26,7 +24,6 @@ Spontaneously organized, cooperatively-owned, and funded by community tokens and
 
 They are open-source not necessarily because of their belief in contributing to the public good, but because it is an excellent marketing and recruitment strategy. They are cooperatively-organized not just because it is more fair and inclusive, but because it is less work, and everyone understands the benefits of [[skin in the game]]. The morally superior path provides practical benefits.
 
-%%![[Screen Shot 2021-06-01 at 11-41-18 This DAO is here to $PARTY — Mirror .png]]%%
 ![A screenshot of Denis's tweet: "wouldn't it be cool if you could deploy an automatic DAO to bid on an NFT auction?"](https://dl.dropboxusercontent.com/s%2F8ubok71mp3pqro5%2Fimage_vydmd9hybm.png)
 
 A brief history of PartyDAO:
@@ -38,7 +35,6 @@ A brief history of PartyDAO:
 
 So a week after the initial concept, the startup has closed their seed round.
 
-%%![[Screen Shot 2021-06-01 at 11-42-45 This DAO is here to $PARTY — Mirror .png]]%%
 ![Screenshot of Mirror crowdfund results, showing how much was raised](https://dl.dropboxusercontent.com/s%2Fnwwub6ars7c81tt%2Fscreen%2520shot%25202021-06-01%2520at%252011-42-45%2520this%2520dao%2520is%2520here%2520to%2520party%2520%2520mirror%2520.png)
 
 Platforms like [Mirror](https://mirror.xyz) (for crowdfunding) and [Snapshot](https://snapshot.org) and [Boardroom](https://boardroom.info) (for governance) combine beautifully with GitHub, Figma, Discord and other pieces of the modern product development stack. They are all remote, async, and open-source/"work in public"-friendly.
