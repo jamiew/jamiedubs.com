@@ -12,7 +12,7 @@ key="jamiedubs.com"
 # TODO check that ipfs daemon is running
 
 # pull latest code and skip jekyll rebuild if no updates
-pull=$(git pull origin master 2>&1)
+pull=$(git pull origin main 2>&1)
 match=$(echo $pull | grep 'up to date') # very naive
 hashfile=".ipfs-hash"
 
