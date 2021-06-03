@@ -27,6 +27,6 @@ They are open-source not necessarily because of their belief in contributing to 
 
 Building stuff is fun, and building stuff with friends is even better. Geting paid to build stuff with friends, all open-source, no bosses, plus you've got a legitimate ownership stake in what you're building? That's another level.
 
-_For more background on PartyDAO, check out [my previous post]()_
+_For more background on PartyDAO, check out [my previous post](https://jamiedubs.com/blog/a-brief-history-of-partydao/)_
 
-_Thanks to Diana Kimball and Chris Kurdziel for feedback on this post_
+_Thanks to [Diana Kimball](https://twitter.com/dianakimball) and [Chris Kurdziel](https://twitter.com/ckurdziel) for feedback on this post_
