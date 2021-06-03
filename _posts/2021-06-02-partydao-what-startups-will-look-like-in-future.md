@@ -5,6 +5,7 @@ categories:
 - crypto
 - startups
 - cooperatives
+- DAOs
 ---
 
 ![Screenshot of early PartyDAO designs (1/2)](https://dl.dropboxusercontent.com/s%2Ffby1akx828fucri%2Fimage_kyy0ijac9l.png)

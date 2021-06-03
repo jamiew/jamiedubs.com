@@ -1,3 +1,13 @@
+---
+title: A brief history of PartyDAO
+published: true
+categories:
+- crypto
+- open-source
+- cooperatives
+- DAOs
+---
+
 ![A screenshot of Denis's tweet: "wouldn't it be cool if you could deploy an automatic DAO to bid on an NFT auction?"](https://dl.dropboxusercontent.com/s%2F8ubok71mp3pqro5%2Fimage_vydmd9hybm.png)
 
 - the project starts with [a tweet from Denis Nazarov](https://d.mirror.xyz/FLqkPA3iN4x-p97UhfhWwaCx8rBmVo-1yttY20oaob4) that [Anish Agnihotri builds over the weekend.](https://twitter.com/_anishagnihotri/status/1384372491053846531)
