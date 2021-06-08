@@ -1,15 +1,21 @@
 #!/bin/bash
-set -e
 
 # be cron-friendly
 cd "$(dirname "$0")"
 export PATH="$PATH:/usr/local/bin:$HOME/.rbenv/shims/"
 
 # config
+# TODO check that ipfs has this key
 key="jamiedubs.com"
 
-# TODO check that ipfs has this key
 # TODO check that ipfs daemon is running
+pid=$(pidof ipfs)
+echo "ipfs pid => $pid"
+
+if [ -z $pid ]; then
+  echo "uh no, blank ipfs pid!"
+  exit 1
+fi
 
 # pull latest code and skip jekyll rebuild if no updates
 git stash >/dev/null
