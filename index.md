@@ -34,30 +34,23 @@ layout: default
 </p>
 
 {% comment %}
-  <!-- TODO things I'm learning about
-      tutors I'm looking for
-      subjects I can teach
-      mentorship -->
-
-<p>
-  I am currently...
-  I am available for consulting and investment opportunities.
-  I'm looking for: blockchain & distributed system tutors
-  I'm currently learning about distributed systems and blockchains
-  Interests: healthcare, security, machine learning,
-  DIY home media centers
-</p>
-
+<!-- TODO 
+    subjects I'm learning about
+    tutors I'm looking for
+    subjects I can teach
+    mentorship opportunities 
+-->
 {% endcomment %}
 
 <hr />
 
 <p>
-  I'm currently consulting with several startups on technology, product development, fundraising and more.
-  Please get in touch if you think I might be able to help you out.
+  I'm currently working as an independent consultant on technology, product development, and business strategy.
+  I occasionally write about these projects on <a href="/blog">my blog</a>.
+  Please get in touch if you think I might be able to help you out, I am always happy to talk.
 </p>
 <p>
-  I also a board member at <a href="https://dewi.org">DeWi</a>, a non-profit helping build the <a href="https://helium.com">Helium</a> peer-to-peer wireless network,
+  I also serve as a board member at two non-profits: <a href="https://dewi.org">DeWi</a>, which is helping build the <a href="https://helium.com">Helium</a> peer-to-peer wireless network,
   and the <a href="https://c4aa.org">Center For Artistic Activism (C4AA)</a>, which trains and advises activists around the world.
 <p>
   Previously I was the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
