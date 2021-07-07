@@ -17,7 +17,7 @@ layout: default
 </p>
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#1105</code> on Discord. 
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#1337</code> on Discord. 
 </p>
 
 <p>
