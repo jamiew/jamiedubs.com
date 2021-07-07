@@ -53,11 +53,14 @@ layout: default
 <hr />
 
 <p>
-  I'm currently consulting on technology & product development.
-  Please get in touch if you think I might be able to help.
+  I'm currently consulting with several startups on technology, product development, fundraising and more.
+  Please get in touch if you think I might be able to help you out.
 </p>
 <p>
-  Most recently I served as the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
+  I also a board member at <a href="https://dewi.org">DeWi</a>, a non-profit helping build the <a href="https://helium.com">Helium</a> peer-to-peer wireless network,
+  and the <a href="https://c4aa.org">Center For Artistic Activism (C4AA)</a>, which trains and advises activists around the world.
+<p>
+  Previously I was the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
   where I led the engineering, product, design and data teams.
 </p>
 <p>
@@ -74,7 +77,7 @@ layout: default
   a community-edited database of Internet culture (like Wikipedia).
   We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
-  The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand an obscure reference.
+  The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand wtf their kids are talking about.
 </p>
 
 <p><img src="images/know-your-meme-old-site-design.jpg" alt="Know Your Meme website screenshot" width="100%" /></p>
