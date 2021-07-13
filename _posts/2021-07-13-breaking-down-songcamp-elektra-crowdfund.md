@@ -16,7 +16,7 @@ The crowdfund used Mirror's `Editions` feature to offer 3 different tiers of rew
 
 Ticket-NFT itself is a cool Top Shot-style 3D hologram video:
 
-![](https://dl.dropboxusercontent.com/s%2Ff07eoceyqrj7wqt%2F9f9eeae0-bb41-4ac6-b1bf-db99ec1b9e54.mp4)
+<video src="https://dl.dropboxusercontent.com/s%2Ff07eoceyqrj7wqt%2F9f9eeae0-bb41-4ac6-b1bf-db99ec1b9e54.mp4" width="100%" loop autoplay />
 
 Then all NFT owners can immediately join a community Discord server by visiting a slick "Portal to Elektra" landing page:
 
