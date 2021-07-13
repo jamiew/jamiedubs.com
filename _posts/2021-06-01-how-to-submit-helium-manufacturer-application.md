@@ -16,9 +16,9 @@ From there a community review board will post comments or contact you with any f
 
 It is assumed you've already [created a GitHub account](https://github.com/join)
 
-Go to https://github.com/helium/HIP/ and fork the TEMPLATE file
-- If you're submitting a manufactuer application, use the file `0019-third-party-manufacturers/TEMPLATE.md`
-- If you're submitting a normal HIP, just use the file `0000-template.md`
+Go to [github.com/helium/HIP](https://github.com/helium/HIP/) and fork the relevant TEMPLATE file:
+- If you're submitting a manufactuer application, use the file [0019-third-party-manufacturers/TEMPLATE.md](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers/TEMPLATE.md)
+- If you're submitting a normal HIP, use the file [0000-template.md](https://github.com/helium/HIP/blob/master/0000-template.md)
 
 [![](https://dl.dropboxusercontent.com/s%2Fuisjw8kyk5f4wnn%2Fimage_fa2djhqjdr.png)](https://dl.dropboxusercontent.com/s%2Fuisjw8kyk5f4wnn%2Fimage_fa2djhqjdr.png)
 
