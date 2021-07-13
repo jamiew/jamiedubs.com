@@ -18,6 +18,7 @@ function copy () {
 copy "2021-05-30 - A brief history of PartyDAO.md" ./2021-05-29-a-brief-history-of-partydao.md
 copy "2021-06-01 - How to submit a HIP or Helium manufacturer application.md" ./2021-06-01-how-to-submit-helium-manufacturer-application.md
 copy "2021-06-02 - PartyDAO is what startups will look like in the future.md" ./2021-06-02-partydao-what-startups-will-look-like-in-future.md
+copy "2021-07-13 - Breaking down the Songcamp Elektra crowdfund.md" ./2021-07-13-breaking-down-songcamp-elektra-crowdfund.md
 
 # git commit -a -m "Update post"
 
