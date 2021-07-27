@@ -21,7 +21,7 @@ layout: default
 </p>
 
 <p>
-  PGP fingerprint: <code>F187 2D25 BA0E DE60</code> and <a href="/public-key.txt">my public key.</a>
+  PGP fingerprint: <code>F1872D25BA0EDE60</code> and <a href="/public-key.txt">my public key.</a>
 </p>
 
 <p>
