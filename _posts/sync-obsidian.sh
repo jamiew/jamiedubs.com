@@ -20,5 +20,9 @@ copy "2021-06-01 - How to submit a HIP or Helium manufacturer application.md" ./
 copy "2021-06-02 - PartyDAO is what startups will look like in the future.md" ./2021-06-02-partydao-what-startups-will-look-like-in-future.md
 copy "2021-07-13 - Breaking down the Songcamp Elektra crowdfund.md" ./2021-07-13-breaking-down-songcamp-elektra-crowdfund.md
 
-# git commit -a -m "Update post"
+if [ $1 == '-a' ]; then
+  echo "Committing and pushing"
+  git commit -a -m "Update post"
+  git push
+fi
 
