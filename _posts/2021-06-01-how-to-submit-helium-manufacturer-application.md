@@ -10,15 +10,15 @@ We use GitHub to manage the Helium Improvement Proposal process, which includes 
 
 This guide is meant to help folks who are new to GitHub submit a new manufacturer application, no command-line magic required. 
 
-You will be using the github.com website to copy a `TEMPLATE` file, paste in your document, and submit a pull request to the [helium/hip](https://github.com/helium/hip) repository. 
+You will be using the github.com website to copy a `TEMPLATE` file, paste in your document, and submit a pull request to either the [helium/hip](https://github.com/helium/hip) repository (for HIPs) or the [dewi-alliance/hotspot-manufacturers](https://github.com/dewi-alliance/hotspot-manufacturers) repository (if you want to build Helium hotspots)
 
-From there a community review board will post comments or contact you with any further questions. New applications are also generally shared in the `#hip-19-third-party-manufacturers` channel on the [Helium Discord server](https://discord.gg/helium).
+From there the community and MOC (Manufacturing Oversight Committee) will post comments or contact you with any further questions. New applications are also generally shared in the `#hip-19-third-party-manufacturers` channel on the [Helium Discord server](https://discord.gg/helium).
 
 It is assumed you've already [created a GitHub account](https://github.com/join)
 
-Go to [github.com/helium/HIP](https://github.com/helium/HIP/) and fork the relevant TEMPLATE file:
-- If you're submitting a manufactuer application, use the file [0019-third-party-manufacturers/TEMPLATE.md](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers/TEMPLATE.md)
-- If you're submitting a normal HIP, use the file [0000-template.md](https://github.com/helium/HIP/blob/master/0000-template.md)
+Go to [github.com/dewi-alliance/hotspot-manufacturers](https://github.com/dewi-alliance/hotspot-manufacturers/) and fork the relevant TEMPLATE file:
+- If you're submitting a manufactuer application, use the file [TEMPLATE.md](https://github.com/dewi-alliance/hotspot-manufacturers/blob/master/TEMPLATE.md)
+- If you're submitting a normal HIP, use the file [0000-template.md](https://github.com/helium/HIP/blob/master/0000-template.md) from [helium/HIP](https://github.com/helium/hip)
 
 [![](https://dl.dropboxusercontent.com/s%2Fuisjw8kyk5f4wnn%2Fimage_fa2djhqjdr.png)](https://dl.dropboxusercontent.com/s%2Fuisjw8kyk5f4wnn%2Fimage_fa2djhqjdr.png)
 
