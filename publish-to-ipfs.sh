@@ -31,7 +31,7 @@ if [ -n "$match" ] && [ -e "$hashfile" ]; then
 else
   echo "Code was out of date, let's proceed..."
   # bundle exec jekyll build -q && echo "Site build complete" || echo "Site build error!"
-  jekyll build --incremental && echo "Site build complete" || echo "Site build error!"
+  bundle exec jekyll build --incremental && echo "Site build complete" || echo "Site build error!"
 
   cd _site
   npx all-relative
