@@ -18,10 +18,10 @@ if [ -z $pid ]; then
 fi
 
 # pull latest code and skip jekyll rebuild if no updates
-git stash >/dev/null
+git stash >/dev/null 2>&1
 pull=$(git pull 2>&1)
 echo "pull => $pull"
-git stash pop >/dev/null
+git stash pop >/dev/null 2>&1
 match=$(echo $pull | grep 'up to date') # very naive
 hashfile=".ipfs-hash"
 
