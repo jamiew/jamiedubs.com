@@ -1,4 +1,4 @@
-
+![](https://dl.dropboxusercontent.com/s%2F477wgju23wfutre%2Fscreen%2520shot%25202021-10-07%2520at%252017-52-32%2520microcosm%252022%2520%2520foundation.jpg)
 
 So you want to [partybid](https://partybid.app) on something in the cool new [Foundation Collections](https://foundation.app/collection), but the PartyBid frontend doesn't support it? And the auction is over in 20 hours you say?
 
