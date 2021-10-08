@@ -8,6 +8,8 @@ categories:
 
 ---
 
+![](https://dl.dropboxusercontent.com/s%2Fwt8bhbii2qrq01o%2Fscreen%2520shot%25202021-10-08%2520at%252019-37-56%2520breaking%2520down%2520the%2520songcamp%2520elektra%2520crowdfund%2520%2520jamiedubs.com.png)
+
 I backed the Songcamp art collective's new [Elektra crowdfund](https://songcamp.mirror.xyz/mkb-m9GWUCLByETAvCigJ0JIpz4XH8bwNDBtUJBPeFc) on Mirror this morning. Pretty cool use of multiple crowdfunding and community-building mechanics, and the project itself is very stylish and narrative-heavy. Kind of like an ARG, kind of like a DAO, kind of something else?
 
 The crowdfund used Mirror's `Editions` feature to offer 3 different tiers of rewards, at 0.1 ETH, 0.3 ETH and 1 ETH. Per typical Mirror crowdfund, backers receive both a ticket-NFT and $ELEKTRA governance tokens proportional to their contribution. But this is also the first crowdfund using Mirror's new `Podium` feature, which gives special NFTs to the top 3 bidders:
