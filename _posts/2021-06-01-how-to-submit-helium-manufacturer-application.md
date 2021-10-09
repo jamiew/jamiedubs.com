@@ -6,6 +6,8 @@ categories:
 - howto
 ---
 
+![](https://dl.dropboxusercontent.com/s%2Fazao6xlx52hlnd8%2Fscreen%2520shot%25202021-10-08%2520at%252020-04-57%2520build%2520the%2520peoples%2520network.png)
+
 We use GitHub to manage the Helium Improvement Proposal process, which includes the hotspot manufacturer approval process (aka [HIP19](https://github.com/helium/HIP/issues/87), adopted Nov 2020)
 
 This guide is meant to help folks who are new to GitHub submit a new manufacturer application, no command-line magic required. 
