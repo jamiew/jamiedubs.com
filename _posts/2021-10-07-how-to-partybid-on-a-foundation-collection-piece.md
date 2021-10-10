@@ -21,7 +21,7 @@ I wrote up this HOWTO for [Sirsu](https://twitter.com/sirsuhayb/) but thought it
 You'll need to do a few things, and some technical savvy is required:
 
 1. Dig up the NFT contract address, token ID and auction ID
-2. Deploy a PartyBid contract instance 
+2. Deploy a PartyBid contract instance using Etherscan
 3. ~~Deploy your own version of the [custom web frontend](https://github.com/shahruz/defparty)~~ – **UPDATE:** thanks to SteveK, the partybid.app frontend now supports custom contracts
 
 If you're into this or have any questions, feel free to join us on the new [Definitely Crypto discord server](https://discord.gg/rJu3G58aRh) – "a place for friends" (and hackers, designers, writers, musicians, businesspeoples, activists, lawyers, vandals and anyone else who likes making stuff and having fun)

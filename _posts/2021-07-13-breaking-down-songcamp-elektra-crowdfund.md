@@ -5,7 +5,6 @@ categories:
 - crypto
 - mirror
 - crowdfunding
-
 ---
 
 ![](https://dl.dropboxusercontent.com/s%2Fwt8bhbii2qrq01o%2Fscreen%2520shot%25202021-10-08%2520at%252019-37-56%2520breaking%2520down%2520the%2520songcamp%2520elektra%2520crowdfund%2520%2520jamiedubs.com.png)
