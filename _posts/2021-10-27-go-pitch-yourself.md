@@ -6,6 +6,8 @@ categories:
 - public speaking
 ---
 
+![Tim Sweeney in our old WNYU studio. Tim, unlike me, is actually good at public speaking](https://dl.dropboxusercontent.com/s%2F2kd3tavn7iavx2d%2Ftim-sweeney-wnyu.jpg).
+
 If I'm going to be pitching an idea to other people, I think it's important to practice saying it out loud. So, even though I hate the sound of my own voice, I pitch it to myself.
 
 I go get a coffee, fire up Voice Memos on my phone, and walk around the city explaining my idea as succinctly as possible. Then I listen back to it, cringe horrificially, and do it again. 
