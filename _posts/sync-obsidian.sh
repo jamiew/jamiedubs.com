@@ -20,6 +20,7 @@ copy "2021-06-01 - How to submit a HIP or Helium manufacturer application.md" ./
 copy "2021-06-02 - PartyDAO is what startups will look like in the future.md" ./2021-06-02-partydao-what-startups-will-look-like-in-future.md
 copy "2021-07-13 - Breaking down the Songcamp Elektra crowdfund.md" ./2021-07-13-breaking-down-songcamp-elektra-crowdfund.md
 copy "2021-10-07 - How to PartyBid on a Foundation Collection (or other custom contract).md" ./2021-10-07-how-to-partybid-on-a-foundation-collection-piece.md
+copy "2021-10-27 - Go pitch yourself.md" ./2021-10-27-go-pitch-yourself.md
 
 if [ "$1" == "-a" ]; then
   echo "Committing and pushing"
