@@ -1,6 +1,6 @@
 ---
 title: How to be a Helium price oracle
-published: false
+published: true
 tags: helium
 ---
 
