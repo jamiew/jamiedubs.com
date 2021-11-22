@@ -1,5 +1,5 @@
 ---
-title: How to PartyBid on a Foundation Collection piece
+title: Hacking PartyBid to bid on unsupported Foundation Collections
 published: true
 categories:
 - crypto
