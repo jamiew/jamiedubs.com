@@ -9,23 +9,21 @@ tags: helium
 
 ## Background
 
-Look, the first rule of being an oracle is that you don't talk about being an oracle. 
+The first rule of being an oracle is that you don't talk about being an oracle. 
 
-The second rule of being an oracle is to submit early and often. Daily at a bare minimum, hourly would be great. A majority of oracles must vote within a rolling 24 hour period for a price to be set; otherwise we end up with stale periods like this nonsense:
+The second rule of being an oracle is to submit HNT prices early and often. Daily at a minimum; hourly would be great. Prices are reset every 30 blocks (30 minutes), and a majority of oracles must vote within a rolling 24 hour period for a price to be set. Otherwise we end up with stale pricing data and flat spots, like this nonsense:
 
 ![](https://dl.dropboxusercontent.com/s%2Fazdzrx0qvc88p4g%2Fscreen%2520shot%25202021-07-27%2520at%252022-40-45%2520oracles%2520%25C2%25B7%2520dashboard%2520%25C2%25B7%2520metabase%25201.png)
 
-As you can see in this amazing chart, when the number of oracles who actually voted fell below a majority (the dashed threshold line), there were no price updates in the chart above:
+Here's what it looks like when the number of voting oracles falls below a majority, represented by the the dashed threshold line (data & graph from [DeWi ETL](https://etl.dewi.org/public/dashboard/377b53e9-d4ed-48f0-9352-9285ad56461e))
 
 ![](https://dl.dropboxusercontent.com/s%2F0gy09qtmjz5e2wx%2Fscreen%2520shot%25202021-07-27%2520at%252022-42-24%252001-46%2520%25C2%25B7%2520oracles%2520%25C2%25B7%2520dashboard%2520%25C2%25B7%2520metabase.png)
 
-Read on more about oracles [on docs.helium.com](https://docs.helium.com/blockchain/oracles/) and then check out all the sick charts of oracles (allegedly) submitting prices on [DeWi ETL](https://etl.dewi.org/dashboard/12-oracles)
-
-OK I'm glad you've made it this far.
+Read more about oracles [on docs.helium.com](https://docs.helium.com/blockchain/oracles/) and then check out all the sick charts of oracles (allegedly) submitting prices on the [DeWi ETL Oracles dashboard](https://etl.dewi.org/public/dashboard/377b53e9-d4ed-48f0-9352-9285ad56461e)
 
 ## Setup
 
-You'll need to be comfortable with the commandline, and ideally have a dedicated server you can setup to automatically submit prices on a regular basis. A [Raspberry Pi](https://www.raspberrypi.org/) on your home internet connection would be way more than enough.
+You'll need to be comfortable with the commandline, and ideally have a dedicated server you can setup to automatically submit prices on a regular basis. A [Raspberry Pi](https://www.raspberrypi.org/) on your home internet connection would be more than enough.
 
 1. Download and install the commandline [helium-wallet](https://github.com/helium/helium-wallet-rs)
 2. Create a fresh mainnet wallet
@@ -77,6 +75,8 @@ Then throw it in your crontab (`crontab -e`):
 ```
 
 ## You did it
+
+Please contact me (email and Discord username are on [jamiedubs.com](https://jamiedubs.com)) and we’ll see about getting you added to the official list. And remember, if you stop submitting prices, you bring great shame on your family!
 
 Thank you for your service
 
