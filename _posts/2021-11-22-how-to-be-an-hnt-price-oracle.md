@@ -23,7 +23,7 @@ Read more about oracles [on docs.helium.com](https://docs.helium.com/blockchain/
 
 ## Setup
 
-You'll need to be comfortable with the commandline, and ideally have a dedicated server you can setup to automatically submit prices on a regular basis. A [Raspberry Pi](https://www.raspberrypi.org/) on your home internet connection would be more than enough.
+You'll need to be comfortable with the commandline, and ideally have a dedicated server you can setup to automatically submit prices on a regular basis. Update: don't use a Raspberry Pi, helium-wallet-rs doesn't build on ARM.
 
 1. Download and install the commandline [helium-wallet](https://github.com/helium/helium-wallet-rs)
 2. Create a fresh mainnet wallet
