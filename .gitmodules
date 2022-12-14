@@ -25,3 +25,6 @@
 [submodule "rickrolldb.com-archive"]
 	path = rickrolldb.com-archive
 	url = https://github.com/jamiew/rickrolldb.com-archive/
+[submodule "showmenonstop"]
+	path = showmenonstop
+	url = https://github.com/jamiew/showmenonstop
