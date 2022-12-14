@@ -23,7 +23,7 @@
 	path = kanye-rant-detector
 	url = https://github.com/jamiew/KANYE-RANT-DETECTOR
 [submodule "rickrolldb.com-archive"]
-	path = rickrolldb.com-archive
+	path = rickrolldb
 	url = https://github.com/jamiew/rickrolldb.com-archive/
 [submodule "showmenonstop"]
 	path = showmenonstop
