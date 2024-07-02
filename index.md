@@ -58,9 +58,9 @@ layout: default
   Previously I was the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>, where I led the engineering, product, and design teams.
 </p>
 <p>
-  From 2010-2017 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
+  From 2010-2016 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
   a platform for selling movies and TV shows directly to fans.
-  In 2017 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
+  In 2016 we were <a href="http://www.theverge.com/2016/5/2/11554434/vimeo-acquires-vhx">acquired by Vimeo</a>,
   and the product is now known as <a href="https://ott.vimeo.com/">Vimeo OTT</a>.
   We had the privilege of working with thousands of small businesses,
   as well as well-known artists like Dave Grohl, Kevin Hart, This American Life, Grace Helbig and more.
@@ -68,7 +68,7 @@ layout: default
 </p>
 <p>
   In 2008, I helped create <a href="http://knowyourmeme.com">Know Your Meme</a>,
-  a community-edited database of Internet culture (like Wikipedia).
+  a community-edited database of Internet culture. "Like Wikipedia, but cooler."
   We also produced a web show where we would dress up in lab coats and explain the stories behind notable memes.
   Some of my favorite episodes are embedded below.
   The site was acquired by the Cheezburger Network in 2011, and remains a popular destination for anyone trying to understand wtf their kids are talking about.
@@ -81,7 +81,7 @@ layout: default
 <!--<p><img src="http://i2.kym-cdn.com/photos/images/newsfeed/000/428/023/6d9.jpg" />-->
 
 <p>In 2010 I won a Primetime Emmy for my work on  the crowdsourced movie
-  <a href="http://starwarsuncut.com">Star Wars Uncut</a>,
+  <a href="http://starwarsuncut.com">Star Wars Uncut</a>
   – "Outstanding Achievement in Interactive Media".
   We chopped the original Star Wars movie into 15 second pieces and invited the Internet
   to recreate them, one scene at a time. The project was created by
