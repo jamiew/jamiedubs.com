@@ -17,44 +17,45 @@ layout: default
 </p>
 
 <p>
-  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub, <code>jamiedubs.eth</code> on the world computer, and <code>jamiedubs#0001</code> on Discord. 
+  I am <a href="https://github.com/jamiew">@jamiew</a> on GitHub and Twitter, <code>jamiedubs</code> on Discord, and <code>jamiedubs</code> on most other public social media (but generally not active)
 </p>
 
-<p>
+{% comment %}
+<!-- <p>
   PGP fingerprint: <code>F1872D25BA0EDE60</code> and <a href="/public-key.txt">this is my public key.</a>
-</p>
-
-<p>
+</p> -->
+<!-- <p>
   Sign up for my email newsletter, sent at most a few times per year:
   <form action="https://tinyletter.com/jamiedubs" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/jamiedubs', 'popupwindow', 'scrollbars=yes,width=800,height=600'); return true">
     <input type="text" style="width: 340px" name="email" id="tlemail" />
     <input type="hidden" value="1" name="embed"/>
     <input type="submit" value="Subscribe" />
   </form>
-</p>
-
-{% comment %}
-<!-- TODO 
+</p> -->
+<!-- TODO
     subjects I'm learning about
     tutors I'm looking for
     subjects I can teach
-    mentorship opportunities 
+    mentorship opportunities
 -->
 {% endcomment %}
 
 <hr />
 
 <p>
-  I'm currently working as an independent consultant on technology, product development, and business strategy.
-  I occasionally write about these projects on <a href="/blog">my blog</a>.
-  Please get in touch if you think I might be able to help you out, I am always happy to talk.
+  I'm the co-founder and CTO of <a href="https://glif.app">Glif</a>, an "all-prompts, no-code" generative AI sandbox.
+  We make it easy to combine different kinds of AI models into lil' multimedia mini-apps - text, images, audio, video and more.
+<!-- <p>
+  I occasionally write about my work on <a href="/blog">jamiedubs.com/blog</a>.
+</p> -->
+<p>
+  Please get in touch if you see anything you like; I am always happy to talk.
 </p>
 <p>
-  I also serve as a board member at two non-profits: <a href="https://dewi.org">DeWi</a>, which is helping build the <a href="https://helium.com">Helium</a> peer-to-peer wireless network,
+  I serve as a board member with the <a href="https://dewi.org">Helium Foundation</a>, which helps build the <a href="https://helium.com">Helium</a> peer-to-peer telecommunications network,
   and the <a href="https://c4aa.org">Center For Artistic Activism (C4AA)</a>, which trains and advises activists around the world.
 <p>
-  Previously I was the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>,
-  where I led the engineering, product, design and data teams.
+  Previously I was the Chief Product Officer at <a href="https://www.kickstarter.com">Kickstarter</a>, where I led the engineering, product, and design teams.
 </p>
 <p>
   From 2010-2017 I was the co-founder and CEO of <a href="https://en.wikipedia.org/wiki/VHX">VHX</a>,
@@ -149,46 +150,47 @@ where students grades depended on generating Internet traffic.
 </ul>
 
 {% comment %}
+
 * <a href="http://fffff.at/scratchml-data-spec/">Scratch Markup Language (ScratchML)</a> (2012)
-  - digitizing turntablism
-  - see also Graffiti Markup Language (.gml)
+  * digitizing turntablism
+  * see also Graffiti Markup Language (.gml)
 * <a href="/googlealarm">Google Alarm</a> (2010)
-    - browser extension that loudly alerts you whenever you're sending data to Google
-    - <a href="http://fffff.at/google-alarm/">blog post</a>
+  * browser extension that loudly alerts you whenever you're sending data to Google
+  * <a href="http://fffff.at/google-alarm/">blog post</a>
 * <a href="http://occupyinter.net">Occupy Internet</a> (2010)
-    - animated GIF protestors for your website
-    - join the global revolution from the comfort of your own home
-    - <a href="">blog post</a>
+  * animated GIF protestors for your website
+  * join the global revolution from the comfort of your own home
+  * <a href="">blog post</a>
 * <a href="/meme-breaks">Meme Breaks</a> (2008)
-  - scratch your favorite Internet memes
-  - <a href="http://fffff.at/scratch-my-internet-memes/">blog post</a>
+  * scratch your favorite Internet memes
+  * <a href="http://fffff.at/scratch-my-internet-memes/">blog post</a>
 * <a href="http://graffitimarkuplanguage.com">Graffiti Markup Language (GML)</a>
-  - file format for capturing and replaying graffiti tags
+  * file format for capturing and replaying graffiti tags
 * <a href="http://000book.com">000000book</a> (2009)
-    - open database for Graffiti Markup Language (.gml) files
+  * open database for Graffiti Markup Language (.gml) files
 * <a href="/canvasplayer">Canvasplayer</a> (2009)
-    - draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a>
+  * draw GML using processing.js - <a href="http://fffff.at/canvasplayer-draw-gml-with-javascript/">blog post</a> - <a href="https://github.com/jamiew/canvasplayer/">source code</a>
 * <a href="https://vimeo.com/2177573">Obama Wikipedia page edits</a> (2008)
-    - visualizes contributors to the Obama page over time
-    - <a href="http://fffff.at/visualizing-obama-wikipedia-page-edits/">blog post</a>
+  * visualizes contributors to the Obama page over time
+  * <a href="http://fffff.at/visualizing-obama-wikipedia-page-edits/">blog post</a>
 * <a href="http://internetfamo.us">Internet Famous Class</a> (2007-2008)
-    - I taught a graduate course at Parsons Design & Technology program where student grades were based on how many views and likes they could generate
+  * I taught a graduate course at Parsons Design & Technology program where student grades were based on how many views and likes they could generate
 * <a href="http://rickrolldb.com">Rickroll Database</a> (2007)
-    - AdBlock filter for rickrolls
-    - you're welcome
+  * AdBlock filter for rickrolls
+  * you're welcome
 * <a href="/jsonview-chrome">JSONView for Chrome</a> (2010)
-    - browser extension for
-    - <a href="https://github.com/jamiew/jsonview-chrome">source code</a>
+  * browser extension for
+  * <a href="https://github.com/jamiew/jsonview-chrome">source code</a>
 * <a href="http://fuckflickr.com">FuckFlickr</a> (2007)
-    - host your own photos
-    - <a href="https://github.com/jamiew/fuckflickr">source code</a>
+  * host your own photos
+  * <a href="https://github.com/jamiew/fuckflickr">source code</a>
 <!-- Kanye Week -->
 * <a href="/KANYERANTS">Kanye Rant Detector</a> (2009)
-  - alerts you when Kanye is using ALLCAPS on his blog
-  - <a href="http://fffff.at/kanye-rant-detector/">blog post</a>
+  * alerts you when Kanye is using ALLCAPS on his blog
+  * <a href="http://fffff.at/kanye-rant-detector/">blog post</a>
 * <a href="/quotable-kanye">Quotable Kanye</a> (2009)
-  - Yeezy wisdom (with API)
-  - <a href="http://fffff.at/quotable-kanye/">blog post</a>
+  * Yeezy wisdom (with API)
+  * <a href="http://fffff.at/quotable-kanye/">blog post</a>
 * <a href="/kanyestudio-pro">Kanye Studio Pro</a> (2009)
 * <a href="/big-rip">BIG_RIP.js</a> (2007)
 * <a href="/breakout-usa">Breakout USA</a> (2007)
@@ -248,7 +250,6 @@ where students grades depended on generating Internet traffic.
 
 <!--<iframe width="560" height="315" src="https://www.youtube.com/embed/8HgrkA5XzrY" frameborder="0" allowfullscreen></iframe>-->
 
-
 <h1>Star Wars Uncut (2010)</h1>
 
 <p><iframe width="560" height="420" src="https://www.youtube.com/embed/7ezeYJUz-84" frameborder="0" allowfullscreen></iframe>
@@ -275,7 +276,6 @@ where students grades depended on generating Internet traffic.
 
 <p><strong>Hard Drive Bombs (2007)</strong>
 <p><iframe src="https://player.vimeo.com/video/218891" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
 
 <h1>Talks/Presentations</h1>
 
@@ -307,8 +307,6 @@ where students grades depended on generating Internet traffic.
 
 <strong>Internet Famous Class on NBC (2008)</strong>
 <p><iframe src="https://player.vimeo.com/video/838276" width="640" height="427" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-
 
 <h1>VHX (2010-2017)</h1>
 
